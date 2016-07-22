@@ -1,0 +1,20 @@
+<add><doc>
+<field name="id">C.1.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">system performance</field>
+<field name="term"  boost="2.0">recording</field>
+
+<field name="term"  boost="1.0">heat-assisted magnetic recording</field>
+<field name="term"  boost="1.0">systems engineering and theory</field>
+<field name="term"  boost="1.0">high definition video</field>
+<field name="term"  boost="1.0">system analysis and design</field>
+<field name="term"  boost="1.0">magnetooptic recording</field>
+<field name="term"  boost="1.0">signal processing</field>
+<field name="term"  boost="1.0">webcams</field>
+<field name="term"  boost="1.0">cd recording</field>
+<field name="term"  boost="1.0">perpendicular magnetic recording</field>
+<field name="term"  boost="1.0">magnetic noise</field>
+<field name="term"  boost="1.0">digital magnetic recording</field>
+<field name="term"  boost="1.0">microwave-assisted magnetic recording</field>
+
+</doc></add>

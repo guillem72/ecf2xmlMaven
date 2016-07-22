@@ -1,0 +1,15 @@
+<add><doc>
+<field name="id">D.5.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">art</field>
+<field name="term"  boost="2.0">collaboration</field>
+
+<field name="term"  boost="1.0">design methodology</field>
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="1.0">videoconferences</field>
+<field name="term"  boost="1.0">electronic design automation and methodology</field>
+<field name="term"  boost="1.0">graphics</field>
+<field name="term"  boost="1.0">call conference</field>
+<field name="term"  boost="1.0">collaborative software</field>
+
+</doc></add>

@@ -1,0 +1,18 @@
+<add><doc>
+<field name="id">B.3.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">reliability</field>
+<field name="term"  boost="4.0">ports</field>
+
+<field name="term"  boost="2.0">computers and information processing</field>
+<field name="term"  boost="2.0">computer interfaces</field>
+<field name="term"  boost="1.0">circuit stability</field>
+<field name="term"  boost="1.0">stability analysis</field>
+<field name="term"  boost="1.0">fault location</field>
+<field name="term"  boost="1.0">stability criteria</field>
+<field name="term"  boost="1.0">thermal stability</field>
+<field name="term"  boost="1.0">redundancy</field>
+<field name="term"  boost="1.0">dissolved gas analysis</field>
+<field name="term"  boost="1.0">robust stability</field>
+
+</doc></add>

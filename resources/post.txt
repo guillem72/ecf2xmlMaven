@@ -1,0 +1,1 @@
+java -Durl=http://localhost:8888/solr/update -jar post.jar *.xml

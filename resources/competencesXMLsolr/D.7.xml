@@ -1,0 +1,19 @@
+<add><doc>
+<field name="id">D.7.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">prom</field>
+<field name="term"  boost="2.0">drives</field>
+<field name="term"  boost="2.0">management</field>
+<field name="term"  boost="2.0">forecasting</field>
+
+<field name="term"  boost="1.0">computers and information processing</field>
+<field name="term"  boost="1.0">memory</field>
+<field name="term"  boost="1.0">business</field>
+<field name="term"  boost="1.0">mathematics</field>
+<field name="term"  boost="1.0">probability</field>
+<field name="term"  boost="1.0">read only memory</field>
+<field name="term"  boost="1.0">industry applications</field>
+<field name="term"  boost="1.0">engineering management</field>
+<field name="term"  boost="1.0">machinery</field>
+
+</doc></add>

@@ -1,0 +1,745 @@
+A - Plan
+A.1. IS and Business Strategy Alignment
+Anticipates long-term business requirements, influences improvement of organisational process efficiency and effectiveness. Determines the IS model and the enterprise architecture in line with the organisation's policy and ensures a secure environment. Makes strategic IS policy decisions for the enterprise, including sourcing strategies.
+Proficiency Levels
+Proficiency Level 4 - Provides leadership for the construction and implementation of long term innovative IS solutions.
+Proficiency Level 5 - Provides IS strategic leadership to reach consensus and commitment from the management team of the enterprise.
+Knowledge Examples
+K1 business strategy concepts
+K2 trends and implications of ICT internal or external developments for typical organisations
+K3 the potential and opportunities of relevant business models
+K4 the business aims and organisational objectives
+K5 the issues and implications of sourcing models
+K6 the new emerging technologies (e.g.distributed systems, virtualisation, mobility, data sets)
+K7 architectural frameworks
+K8 security
+Skills Examples
+S1 analyse future developments in business process and technology application
+S2 determine requirements for processes related to ICT services
+S3 identify and analyse long term user/customer needs
+S4 contribute to the development of ICT strategy and policy, including ICT security and quality
+S5 contribute to the development of the business strategy
+S6 analyse feasibility in terms of costs and benefits
+S7 review and analyse effects of implementations
+S8 understand the impact of new technologies on business (e.g. open/big data, dematerialisation opportunities and strategies)
+S9 understand the business benefits of new technologies and how this can add value and provide competitive advantage (e.g. open/big data, dematerialisation opportunities and strategies)
+S10 understand the enterprise architecture
+S11 understand the legal & regulatory landscape in order to factor into business requirements
+A.2. Service Level Management
+Defines, validates and makes applicable service level agreements (SLAs) and underpinning contracts for services offered. Negotiates service performance levels taking into account the needs and capacity of stakeholders and business.
+Proficiency Levels
+Proficiency Level 3 - Ensures the content of the SLA.
+Proficiency Level 4 - Negotiates revision of SLAs, in accordance with the overall objectives. Ensures the achievement of planned results.
+Knowledge Examples
+K1 SLA documentation
+K2 how to compare and interpret management data
+K3 the elements forming the metrics of service level agreements
+K4 how service delivery infrastructures work
+K5 impact of service level non-compliance on business performance
+K6 ICT security standards
+K7 ICT quality standards
+Skills Examples
+S1 analyse service provision records
+S2 evaluate service provision against SLA
+S3 negotiate realistic service level targets
+S4 use relevant quality management techniques
+S5 anticipate and mitigate against potential service disruptions
+A.3. Business Plan Development
+Addresses the design and structure of a business or product plan including the identification of alternative approaches as well as return on investment propositions. Considers the possible and applicable sourcing models. Presents cost benefit analysis and reasoned arguments in support of the selected strategy. Ensures compliance with business and technology strategies. Communicates and sells business plan to relevant stakeholders and addresses political, financial, and organisational interests.
+Proficiency Levels
+Proficiency Level 3 - Exploits specialist knowledge to provide analysis of market environment etc.
+Proficiency Level 4 - Provides leadership for the creation of an information system strategy that meets the requirements of the business( e.g. distributed, mobility-based) and includes risks and opportunities.
+Proficiency Level 5 - Applies strategic thinking and organisational leadership to exploit the capability of Information Technology to improve the business.
+Knowledge Examples
+K1 business plan elements and milestones
+K2 the present and future market size and needs
+K3 competition and SWOT analysis techniques (for product features and also the external environment)
+K4 value creation channels
+K5 profitability elements
+K6 the issues and implications of sourcing models
+K7 financial planning and dynamics
+K8 new emerging technologies
+K9 risk and opportunity assessment techniques
+Skills Examples
+S1 address and identify essential elements of product or solution value propositions
+S2 define the appropriate value creation channels
+S3 build a detailed SWOT analysis
+S4 generate short and long term performance reports (e.g. financial, profitability, usage and value creation)
+S5 identify main milestones of the plan
+A.4. Product/ Service Planning
+Analyses and defines current and target status. Estimates cost effectiveness, points of risk, opportunities, strengths and weaknesses, with a critical approach. Creates structured plans; establishes time scales and milestones, ensuring optimisation of activities and resources. Manages change requests. Defines delivery quantity and provides an overview of additional documentation requirements. Specifies correct handling of products, including legal issues, in accordance with current regulations.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to document standard and simple elements of a product.
+Proficiency Level 3 - Exploits specialist knowledge to create and maintain complex documents.
+Proficiency Level 4 - Provides leadership and takes responsibility for, developing and maintaining overall plans.
+Knowledge Examples
+K1 effective frameworks and methodologies for governance plans
+K2 typical KPI (key performance indicators)
+K3 basic decision-making methods
+K4 IPR principles and regulation
+K5 agile techniques
+K6 structured Project Management Methodologies (e.g. agile techniques)
+K7 optimisation methods (e.g. lean management)
+K8 new emerging technologies
+Skills Examples
+S1 identify all potential targets for the product or service
+S2 define the communication plan; identify key users and create related documentation
+S3 produce quality plans
+S4 ensure and manage adequate information for decision makers
+S5 manage the change request process
+S6 manage the product/ service development management lifecycle (inclusive of the formal change request process)
+A.5. Architecture Design
+Specifies, refines, updates and makes available a formal approach to implement solutions, necessary to develop and operate the IS architecture. Identifies change requirements and the components involved: hardware, software, applications, processes, information and technology platform. Takes into account interoperability, scalability, usability and security. Maintains alignment between business evolution and technology developments.
+Proficiency Levels
+Proficiency Level 3 - Exploits specialist knowledge to define relevant ICT technology and specifications to be deployed in the construction of multiple ICT projects, applications or infrastructure improvements.
+Proficiency Level 4 - Acts with wide ranging accountability to define the strategy to implement ICT technology compliant with business need. Takes account of the current technology platform, obsolescent equipment and latest technological innovations.
+Proficiency Level 5 - Provides ICT strategic leadership for implementing the enterprise strategy. Applies strategic thinking to discover and recognize new patterns in vast datasets and new ICT systems, to achieve business savings.
+Knowledge Examples
+K1 architecture frameworks,methodologies and systems design tools
+K2 systems architecture requirements: performance, maintainability, extendibility, scalability, availability, security and accessibility
+K3 costs, benefits and risks of a system architecture
+K4 the company's enterprise architecture and internal standards
+K5 new emerging technologies (e.g., distributed systems, virtualisation models, datasets, mobile systems)
+Skills Examples
+S1 provide expertise to help solve complex technical problems and ensures best architecture solutions are implemented
+S2 use knowledge in various technology areas to build and deliver the enterprise architecture
+S3 understand the business objectives/drivers that impact the architecture component (data, application, security, development etc)
+S4 assist in communication of the enterprise architecture and standards, principles and objectives to the application teams
+S5 develop design patterns and models to assist system analysts in designing consistent applications
+A.6. Application Design
+Analyses, specifies, updates and makes available a model to implement applications in accordance with IS policy and user/customer needs. Selects appropriate technical options for application design, optimising the balance between cost and quality. Designs data structures and builds system structure models according to analysis results through modeling languages. Ensures that all aspects take account of interoperability, usability and security. Identifies a common reference framework to validate the models with representative users, based upon development models (e.g. iterative approach).
+Proficiency Levels
+Proficiency Level 1 - Contributes to the design and general functional specification and interfaces.
+Proficiency Level 2 - Organises the overall planning of the design of the application.
+Proficiency Level 3 - Accounts for own and others actions in ensuring that the application is correctly integrated within a complex environment and complies with user/customer needs.
+Knowledge Examples
+K1 requirements modelling and need analysis techniques
+K2 software developments methods and their rationale (e.g. prototyping, agile methods, reverse engineering, etc.)
+K3 metrics related to application development
+K4 user interface design principles
+K5 languages for formalising functional specification
+K6 existing applications and related architecture
+K7 DBMS, Data Warehouse, DSS... etc
+K8 mobile technologies
+K9 threat modelling techniques
+Skills Examples
+S1 identify customers, users and stakeholders
+S2 collect, formalise and validate functional and no-functional requirements
+S3 apply estimation models and data to evaluate costs of different software lifecycle phases
+S4 evaluate the use of prototypes to support requirements validation
+S5 design, organise and monitor the overall plan for the design of application
+S6 design functional specification starting from defined requirements
+S7 evaluate the suitability of different application development methods for the current scenario
+S8 establish systematic and frequent communication with customers, users and stakeholders
+S9 ensure that controls & functionality are built in to the design
+A.7. Technology Trend Monitoring
+Investigates latest ICT technological developments to establish understanding of evolving technologies. Devises innovative solutions for integration of new technology into existing products, applications or services or for the creation of new solutions.
+Proficiency Levels
+Proficiency Level 4 - Exploits wide ranging specialist knowledge of new and emerging technologies, coupled with a deep understanding of the business, to envision and articulate solutions for the future. Provides expert guidance and advice, to the leadership team to support strategic decision-making.
+Proficiency Level 5 - Makes strategic decisions envisioning and articulating future ICT solutions for customer-oriented processes, new business products and services; directs the organisation to build and exploit them.
+Knowledge Examples
+K1 emerging technologies and the relevant market applications
+K2 market needs
+K3 relevant sources of information (e.g. magazines, conferences and events, news letters, opinion leaders, on-line forums, etc.)
+K4 the rules of discussions in web communities
+K5 applied research programme approaches
+Skills Examples
+S1 monitor sources of information and continuously follow the most promising
+S2 identify vendors and providers of the most promising solutions; evaluates, justifies and proposes the most appropriate
+S3 identify business advantages and improvements of adopting emerging technologies
+A.8. Sustainable Development
+Estimates the impact of ICT solutions in terms of eco responsibilities including energy consumption. Advises business and ICT stakeholders on sustainable alternatives that are consistent with the business strategy. Applies an ICT purchasing and sales policy which fulfils eco-responsibilities.
+Proficiency Levels
+Proficiency Level 3 - Promotes awareness, training and commitment for the deployment of sustainable development and applies the necessary tools for piloting this approach.
+Proficiency Level 4 - Defines objective and strategy of sustainable IS development in accordance with the organisation's sustainability policy.
+Knowledge Examples
+K1 metrics and indicators related to sustainable development
+K2 Corporate social responsibility (CSR) of stakeholders within the IT infrastructure
+Skills Examples
+S1 monitor and measure the ICT energy consumption
+S2 apply recommendations in projects to support latest sustainable development strategies
+S3 master regulatory constraints and international standards related to ICT sustainability
+A.9. Innovating
+Devises creative solutions for the provision of new concepts, ideas, products or services. Deploys novel and open thinking to envision exploitation of technological advances to address business/ society needs or research direction.
+Proficiency Levels
+Proficiency Level 4 - Applies independent thinking and technology awareness to lead the integration of disparate concepts for the provision of unique solutions.
+Proficiency Level 5 - Challenges the status quo and provides strategic leadership for the introduction of revolutionary concepts.
+Knowledge Examples
+K1 existing and emerging technologies and market applications
+K2 business, society and/ or research habits, trends and needs
+K3 innovation processes techniques
+Skills Examples
+S1 identify business advantages and improvements of adopting emerging technologies
+S2 create a proof of concept
+S3 think out of the box
+S4 identify appropriate resources
+B - Build
+B.1. Application Development
+Interprets the application design to develop a suitable application in accordance with customer needs. Adapts existing solutions by e.g. porting an application to another operating system. Codes, debugs, tests and documents and communicates product development stages. Selects appropriate technical options for development such as reusing, improving or reconfiguration of existing components. Optimises efficiency, cost and quality. Validates results with user representatives, integrates and commissions the overall solution.
+Proficiency Levels
+Proficiency Level 1 - Acts under guidance to develop, test and document applications.
+Proficiency Level 2 - Systematically develops and validates applications.
+Proficiency Level 3 - Acts creatively to develop applications and to select appropriate technical options. Accounts for others development activities. Optimizes application development, maintenance and performance by employing design patterns and by reusing proved solutions.
+Knowledge Examples
+K1 appropriate software programs/ modules
+K2 hardware components, tools and hardware architectures
+K3 functional and technical designing
+K4 state of the art technologies
+K5 programming languages
+K6 power consumption models of software and/or hardware
+K7 DBMS
+K8 operating systems and software platforms
+K9 integrated development environment (IDE)
+K10 rapid application development (RAD)
+K11 IPR issues
+K12 modelling technology and languages
+K13 interface definition languages (IDL)
+K14 security
+Skills Examples
+S1 explain and communicate the design/development to the customer
+S2 perform and evaluate test results against product specifications
+S3 apply appropriate software and/or hardware architectures
+S4 develop user interfaces, business software components and embedded software components
+S5 manage and guarantee high levels of cohesion and quality
+S6 use data models
+S7 perform and evaluate test in the customer or target environment
+S8 cooperate with development team and with application designers
+B.2. Component Integration
+Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+B.3. Testing
+Constructs and executes systematic test procedures for ICT systems or customer usability requirements to establish compliance with design specifications. Ensures that new or revised components or systems perform to expectation. Ensures meeting of internal, external, national and international standards; including health and safety, usability, performance, reliability or compatibility. Produces documents and reports to evidence certification requirements.
+Proficiency Levels
+Proficiency Level 1 - Performs simple tests in strict compliance with detailed instructions.
+Proficiency Level 2 - Organises test programmes and builds scripts to stress test potential vulnerabilities. Records and reports outcomes providing analysis of results.
+Proficiency Level 3 - Exploits specialist knowledge to supervise complex testing programmes. Ensures tests and results are documented to provide input to subsequent process owners such as designers, users or maintainers. Accountable for compliance with testing procedures including a documented audit trail.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire testing activity, including the establishment of internal standard of practices. Provides expert guidance and advice to the testing team.
+Knowledge Examples
+K1 techniques, infrastructure and tools to be used in the testing process
+K2 the lifecycle of a testing process
+K3 the different sorts of tests (functional, integration, performance, usability, stress etc.)
+K4 national and international standards defining quality criteria for testing
+K5 web, cloud and mobile technologies and environmental requirements
+Skills Examples
+S1 create and manage a test plan
+S2 manage and evaluate the test process
+S3 design tests of ICT systems
+S4 prepare and conduct tests of ICT systems
+S5 report and document tests and results
+B.4. Solution Deployment
+Following predefined general standards of practice carries out planned necessary interventions to implement solution, including installing, upgrading or decommissioning. Configures hardware, software or network to ensure interoperability of system components and debugs any resultant faults or incompatibilities. Engages additional specialist resources if required, such as third party network providers. Formally hands over fully operational solution to user and completes documentation recording all relevant information, including equipment addressees, configuration and performance data.
+Proficiency Levels
+Proficiency Level 1 - Removes or installs components under guidance and in accordance with detailed instructions.
+Proficiency Level 2 - Acts systematically to build or deconstruct system elements. Identifies failing components and establishes root cause failures. Provides support to less experienced colleagues.
+Proficiency Level 3 - Accounts for own and others actions for solution provision and initiates comprehensive communication with stakeholders. Exploits specialist knowledge to influence solution construction providing advice and guidance.
+Knowledge Examples
+K1 performance analysis techniques
+K2 techniques related to problem management (operation, performance, compatibility)
+K3 software packaging and distribution methods and techniques
+K4 the impacts of deployment on the current architecture
+K5 the technologies and standards to be used during the deployment
+K6 web, cloud and mobile technologies and environmental requirements
+Skills Examples
+S1 organise deployment workflow and product roll-out activities
+S2 organise and plan beta-test activities, testing solution in its final operational environment
+S3 configure components at any level to guarantee correct overall interoperability
+S4 identify and engage expertise needed to solve interoperability problems
+S5 organise and control initial support service provision including user training during system start-up
+S6 organise population of data bases and manage data migration
+S7 collaborate to modify 3rd party code; support and maintain modified software
+B.5. Documentation Production
+Produces documents describing products, services, components or applications to establish compliance with relevant documentation requirements. Selects appropriate style and media for presentation materials. Creates templates for document-management systems. Ensures that functions and features are documented in an appropriate way. Ensures that existing documents are valid and up to date.
+Proficiency Levels
+Proficiency Level 1 - Uses and applies standards to define document structure.
+Proficiency Level 2 - Determines documentation requirements taking into account the purpose and environment to which it applies.
+Proficiency Level 3 - Adapts the level of detail according to the objective of the documentation and the targeted population.
+Knowledge Examples
+K1 tools for production, editing and distribution of professional documents
+K2 tools for multimedia presentation creation
+K3 different technical documents required for designing, developing and deploying products, applications and services
+K4 version control of documentation production
+Skills Examples
+S1 observe and deploy effective use of corporate standards for publications
+S2 prepare templates for shared publications
+S3 organise and control content management workflow
+S4 keep publications aligned to the solution during the entire lifecycle
+B.6. Systems Engineering
+Engineers software and/ or hardware components to meet solution requirements such as specifications, costs, quality, time, energy efficiency, information security and data protection. Follows a systematic methodology to analyse and build the required components and interfaces. Builds system structure models and conducts system behavior simulation. Performs unit and system tests to ensure requirements are met.
+Proficiency Levels
+Proficiency Level 3 - Ensures interoperability of the system components. Exploits wide ranging specialist knowledge to create a complete system that will satisfy the system constraints and meet the customer’s expectations.
+Proficiency Level 4 - Handles complexity by developing standard procedures and architectures in support of cohesive product development. Establishes a set of system requirements that will guide the design of the system. Identifies which system requirements should be allocated to which elements of the system.
+Knowledge Examples
+K1 appropriate software programs/ modules, DBMS and programming languages
+K2 hardware components, tools and hardware architectures
+K3 functional & technical designing
+K4 state of the art technologies
+K5 programming languages
+K6 power consumption models of software and/or hardware
+K7 information security basics
+K8 prototyping
+Skills Examples
+S1 explain and communicate the design/development to the customer
+S2 perform and evaluate test results against product specifications
+S3 apply appropriate software and/or hardware architectures
+S4 design and develop hardware architecture, user interfaces, business software components and embedded software components
+S5 manage and guarantee high levels of cohesion and quality in complex software developments
+S6 use data models
+S7 apply appropriate development and/or process models, to develop effectively and efficiently
+C - Run
+C.1. User Support
+Responds to user requests and issues, recording relevant information. Assures resolution or escalates incidents and optimises system performance in accordance with predefined service level agreements (SLAs). Understands how to monitor solution outcome and resultant customer satisfaction.
+Proficiency Levels
+Proficiency Level 1 - Interacts with users, applies basic product knowledge to respond to user requests. Solves incidents, following prescribed procedures.
+Proficiency Level 2 - Systematically interprets user problems and identifies solutions and possible side effects. Uses experience to address user problems and interrogates database for potential solutions. Escalates complex or unresolved incidents. Records and tracks issues from outset to conclusion.
+Proficiency Level 3 - Manages the support process and accountable for agreed SLA. Plans resource allocation to meet defined service level. Acts creatively, and applies continuous service improvement. Manages the support function budget.
+Knowledge Examples
+K1 relevant ICT User applications
+K2 database structures and content organisation
+K3 corporate escalation procedures
+K4 software distribution methods and procedures for fix application and file transmission methodologies applicable to software fixes
+K5 sources of information for potential solutions
+Skills Examples
+S1 effectively interrogate users to establish symptoms
+S2 analyse symptoms to identify broad area of user error or technical failure
+S3 deploy support tools to systematically trace source of error or technical failure
+S4 clearly communicate with end users and provide instructions on how to progress issues
+S5 record and code issues to support growth and integrity of online support tools
+C.2. Change Support
+Implements and guides the evolution of an ICT solution. Ensures efficient control and scheduling of software or hardware modifications to prevent multiple upgrades creating unpredictable outcomes. Minimises service disruption as a consequence of changes and adheres to defined service level agreement (SLA). Ensures consideration and compliance with information security procedures.
+Proficiency Levels
+Proficiency Level 2 - During change, acts systematically to respond to day by day operational needs and react to them, avoiding service disruptions and maintaining coherence to (SLA) and information security requirements.
+Proficiency Level 3 - Ensures the integrity of the system by controlling the application of functional updates, software or hardware additions and maintenance activities. Complies with budget requirements.
+Knowledge Examples
+K1 functional specifications of the information system
+K2 the existing ICT application technical architecture
+K3 how business processes are integrated and their dependency upon ICT applications
+K4 change management tools and techniques
+K5 the best practices and standards in information security management
+Skills Examples
+S1 share functional and technical specifications with ICT teams in charge of the maintenance and evolution of ICT solutions
+S2 manage communications with ICT teams in charge of the maintenance and the evolution of information systems solutions
+S3 analyse the impact of functional/technical changes on users
+S4 anticipate all actions required to mitigate the impact of changes (training, documentation, new processes...)
+C.3. Service Delivery
+Ensures service delivery in accordance with established service level agreements (SLA's). Takes proactive action to ensure stable and secure applications and ICT infrastructure to avoid potential service disruptions, attending to capacity planning and to information security. Updates operational document library and logs all service incidents. Maintains monitoring and management tools (i.e. scripts, procedures). Maintains IS services. Takes proactive measures.
+Proficiency Levels
+Proficiency Level 1 - Acts under guidance to record and track reliability data
+Proficiency Level 2 - Systematically analyses performance data and communicates findings to senior experts. Escalates potential service level failures and security risks, recommends actions to improve service reliability. Tracks reliability data against SLA.
+Proficiency Level 3 - Programmes the schedule of operational tasks. Manages costs and budget according to the internal procedures and external constraints. Identifies the optimum number of people required to resource the operational management of the IS infrastructure.
+Knowledge Examples
+K1 how to interpret ICT service delivery requirements
+K2 best practices and standards in ICT service delivery
+K3 how to monitor service delivery
+K4 how to record service delivery actions and able to identify failures
+K5 the best practices and standards in information security management
+K6 web, cloud and mobile technologies
+Skills Examples
+S1 apply the processes which comprise the organisation's ICT service delivery strategy
+S2 fill in and complete documentation used in ICT service delivery
+S3 analyse service delivery provision and report outcomes to senior colleagues
+S4 plan and apply manpower workload/requirements for efficient and cost effective service provision
+C.4. Problem Management
+Identifies and resolves the root cause of incidents. Takes a proactive approach to avoidance or identification of root cause of ICT problems. Deploys a knowledge system based on recurrence of common errors. Resolves or escalates incidents. Optimises system or component performance.
+Proficiency Levels
+Proficiency Level 2 - Identifies and classifies incident types and service interruptions. Records incidents cataloguing them by symptom and resolution.
+Proficiency Level 3 - Exploits specialist knowledge and in-depth understanding of the ICT infrastructure and problem management process to identify failures and resolve with minimum outage. Makes sound decisions in emotionally charged environments on appropriate action required to minimise business impact. Rapidly identifies failing component, selects alternatives such as repair, replace or reconfigure.
+Proficiency Level 4 - Provides leadership and is accountable for the entire problem management process. Schedules and ensures well trained human resources, tools, and diagnostic equipment are available to meet emergency incidents. Has depth of expertise to anticipate critical component failure and make provision for recovery with minimum downtime. Constructs escalation processes to ensure that appropriate resources can be applied to each incident.
+Knowledge Examples
+K1 the organisation's overall ICT infrastructure and key components
+K2 the organisation's reporting procedures
+K3 the organisation's critical situation escalation procedures
+K4 the application and availability of diagnostic tools
+K5 the link between system infrastructure elements and impact of failure on related business processes
+Skills Examples
+S1 monitor progress of issues throughout lifecycle and communicate effectively
+S2 identify potential critical component failures and take action to mitigate effects of failure
+S3 conduct risk management audits and act to minimise exposures
+S4 allocate appropriate resources to maintenance activities, balancing cost and risk
+S5 communicate at all levels to ensure appropriate resources are deployed internally or externally to minimise outages
+D - Enable
+D.1. Information Security Strategy Development
+Defines and makes applicable a formal organisational strategy, scope and culture to maintain safety and security of information from external and internal threats, i.e. digital forensic for corporate investigations or intrusion investigation. Provides the foundation for Information Security Management, including role identification and accountability. Uses defined standards to create objectives for information integrity, availability, and data privacy.
+Proficiency Levels
+Proficiency Level 4 - Exploits depth of expertise and leverages external standards and best practices.
+Proficiency Level 5 - Provides strategic leadership to embed information security into the culture of the organisation.
+Knowledge Examples
+K1 the potential and opportunities of relevant standards and best practices
+K2 the impact of legal requirements on information security
+K3 the information strategy of the organisation
+K4 possible security threats
+K5 the mobility strategy
+K6 the different service models (SaaS, PaaS, IaaS) and operational translations (i.e. cloud computing)
+Skills Examples
+S1 develop and critically analyse the company strategy for information security
+S2 define, present and promote an information security policy for approval by the senior management of the organisation
+S3 apply relevant standards, best practices and legal requirements for information security
+S4 anticipate required changes to the organisation's information security strategy and formulate new plans
+S5 propose effective contingency measures
+D.2. ICT Quality Strategy Development
+Defines, improves and refines a formal strategy to satisfy customer expectations and improve business performance (balance between cost and risks). Identifies critical processes influencing service delivery and product performance for definition in the ICT quality management system. Uses defined standards to formulate objectives for service management, product and process quality. Identifies ICT quality management accountability.
+Proficiency Levels
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to leverage and authorise the application of external standards and best practices.
+Proficiency Level 5 - Provides strategic leadership to embed ICT quality (i.e. metrics and continuous improvement) into the culture of the organisation.
+Knowledge Examples
+K1 the major information technology industry frameworks - COBIT, ITIL, CMMI, ISO - and their implications for corporate ICT governance
+K2 the information strategy of the organisation
+K3 the different service models (SaaS, PaaS, IaaS) and operational translations (i.e. Cloud Computing)
+Skills Examples
+S1 define an ICT quality policy to meet the organisation's standards of performance and customer satisfaction objectives
+S2 identify quality metrics to be used
+S3 apply relevant standards and best practices to maintain information quality
+D.3. Education and Training Provision
+Defines and implements ICT training policy to address organisational skill needs and gaps. Structures, organises and schedules training programmes and evaluates training quality through a feedback process and implements continuous improvement. Adapts training plans to address changing demand.
+Proficiency Levels
+Proficiency Level 2 - Organises the identification of training needs; collates organisation requirements, identifies, selects and prepares schedule of training interventions.
+Proficiency Level 3 - Acts creatively to analyse skills gaps; elaborates specific requirements and identifies potential sources for training provision. Has specialist knowledge of the training market and establishes a feedback mechanism to assess the added value of alternative training programmes.
+Knowledge Examples
+K1 appropriate pedagogical approaches and education delivery methods e.g. classroom, online, text, dvd, ...
+K2 the competitive market for educational offering
+K3 training needs analysis methodologies
+K4 empowerment techniques
+Skills Examples
+S1 organise training and education schedules to meet market needs
+S2 identify and maximise use of resources required to deliver a cost effective schedule
+S3 promote and market education and training provision
+S4 analyse feedback data and use it to drive continuous improvement of education and training delivery
+S5 design curricula and training programmes to meet customer ICT education needs
+S6 address CPD needs of staff to meet organisational requirements
+D.4. Purchasing
+Applies a consistent procurement procedure, including deployment of the following sub processes: specification requirements, supplier identification, proposal analysis, evaluation of the energy efficiency and environmental compliance of products, suppliers and their processes, contract negotiation, supplier selection and contract placement. Ensures that the entire purchasing process is fit for purpose, adds business value to the organisation compliant to legal and regulatory requirements.
+Proficiency Levels
+Proficiency Level 2 - Understands and applies the principles of the procurement process; places orders based on existing supplier contracts. Ensures the correct execution of orders, including validation of deliverables and correlation with subsequent payments.
+Proficiency Level 3 - Exploits specialist knowledge to deploy the purchasing process, ensuring positive commercial relationships with suppliers. Selects suppliers, products and services by evaluating performance, cost, timeliness and quality. Decides contract placement and complies with organisational policies.
+Proficiency Level 4 - Provides leadership for the application of the organisation's procurement policies and makes recommendations for process enhancement. Applies experience and procurement practice expertise to make ultimate purchasing decisions.
+Knowledge Examples
+K1 typical purchase contract terms and conditions
+K2 own organisation purchasing policies
+K3 financial models e.g. discount structures
+K4 the current market for relevant products or services
+K5 the issues and implications of outsourcing services
+K6 different service models (SaaS, PaaS, IaaS) and operational translations (e.g. Cloud Computing)
+Skills Examples
+S1 interpret product/service specifications
+S2 negotiate terms, conditions and pricing
+S3 analyse received proposals/ offers
+S4 manage the purchasing budget
+S5 lead purchase process improvement
+S6 analyse the energy efficiency and environmental-related aspects of a proposal
+S7 verify that purchasing processes respect legal issues including IPR
+D.5. Sales Proposal Development
+Develops technical proposals to meet customer solution requirements and provide sales personnel with a competitive bid. Underlines the energy efficiency and environmental impact related to a proposal. Collaborates with colleagues to align the service or product solution with the organisation's capacity to deliver.
+Proficiency Levels
+Proficiency Level 2 - Organises collaboration between relevant internal departments, for example, technical, sales and legal. Facilitates comparison between customer requirement and available 'off the shelf' solutions.
+Proficiency Level 3 - Acts creatively to develop proposal incorporating a complex solution. Customises solution in a complex technical and legal environment and ensures feasibility, legal and technical validity of customer offer.
+Knowledge Examples
+K1 customer needs
+K2 internally adopted sales and marketing techniques
+K3 legal requirements
+K4 internal business practices
+K5 product or service unique selling points
+K6 the different service models (SaaS, PaaS, IaaS) and operational translations (e.g. cloud computing)
+Skills Examples
+S1 construct the framework for proposal documentation
+S2 co-ordinate and facilitate multidisciplinary teams contributing to the proposal
+S3 interpret the terms and conditions of the tender documentation
+S4 evaluate the strengths and weaknesses of potential competitors
+S5 ensure that a proposal is of high quality and is submitted on time
+S6 communicates the energy efficiency and environmental-related aspects of a proposal
+S7 ensure that proposals meet compliance requirements
+D.6. Channel Management
+Develops the strategy for managing third party sales outlets. Ensures optimum commercial performance of the value-added resellers (VAR) channel through the provision of a coherent business and marketing strategy. Defines the targets for volume, geographic coverage and the industry sector for VAR engagements and structures incentive programmes to achieve complimentary sales results.
+Proficiency Levels
+Proficiency Level 3 - Acts creatively to influence the establishment of a VAR network. Manages the identification and assessment of potential VAR members and sets up support procedures. VARs managed to maximise business performance.
+Proficiency Level 4 - Exploits wide ranging skills in marketing and sales to create the organisation's VAR strategy. Establishes the processes by which VARs will be managed to maximise business performance.
+Knowledge Examples
+K1 the competition (what and where)
+K2 the market distribution across the field
+K3 sales channel typologies (e.g. direct sales, VAR, web marketing)
+K4 incentive policies
+K5 user experience of each channel type
+K6 legal issues relating to channels and VAR organisations
+Skills Examples
+S1 choose the best sales channel according to the product or solution being delivered
+S2 define discounts according to the competitive environment
+S3 select value added retailers based on thorough analyses, plan and make contacts
+S4 monitor and supervise channel performances in line with sales forecast and able to define corrective actions if necessary
+S5 apply web marketing methods
+D.7. Sales Management
+Drives the achievement of sales results through the establishment of a sales strategy. Demonstrates the added value of the organisation's products and services to new or existing customers and prospects. Establishes a sales support procedure providing efficient response to sales enquiries, consistent with company strategy and policy. Establishes a systematic approach to the entire sales process, including understanding customer needs, forecasting, prospect evaluation, negotiation tactics and sales closure
+Proficiency Levels
+Proficiency Level 3 - Contributes to the sales process by effectively presenting products or services to customers.
+Proficiency Level 4 - Assesses and estimates appropriate sales strategies to deliver company results. Decides and allocates annual sales targets and adjusts incentives to meet market conditions.
+Proficiency Level 5 - Assumes ultimate responsibility for the sales performance of the organisation. Authorises resource allocation, prioritises product and service promotions, advises board directors of sales performance.
+Knowledge Examples
+K1 customer organisation (needs, budget allocation and decision makers)
+K2 company specific processes (sales, ITIL, etc.)
+K3 market trends and own service offering portfolio
+K4 legal, financial and contractual rules
+K5 project management procedures
+K6 current market imperatives e.g. risks, changes, innovation
+Skills Examples
+S1 develop strong co-operation between customers and own organisation
+S2 keep abreast of market news e.g. risks, changes, innovations and communicate to internal business units, to improve service and product portfolio
+S3 react proactively to customer business changes and communicate them internally
+S4 generate sustainable customer relationships
+S5 analyse sales performance to build forecasts and develop a tactical sales plan
+D.8. Contract Management
+Provides and negotiates contract in accordance with organisational processes. Ensures that contract and deliverables are provided on time, meet quality standards, and conform to compliance requirements. Addresses non-compliance, escalates significant issues, drives recovery plans and if necessary amends contracts. Maintains budget integrity. Assesses and addresses supplier compliance to legal, health and safety and security standards. Actively pursues regular supplier communication.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to monitor contract compliance and promptly escalate defaults.
+Proficiency Level 3 - Evaluates contract performance by monitoring performance indicators. Assures performance of the complete supply chain. Influences the terms of contract renewal.
+Proficiency Level 4 - Provides leadership for contract compliance and is the final escalation point for issue resolution.
+Knowledge Examples
+K1 applicable SLA
+K2 company policy for contract management
+K3 legal regulations applicable to ICT contracts
+K4 legal issues including IPR
+K5 different service models (SaaS, PaaS, IaaS), service levels and contractual translations (e.g. Cloud Computing)
+Skills Examples
+S1 foster positive relationships with stakeholders
+S2 negotiate contract terms and conditions
+S3 apply judgement and flexibility in contract negotiations compliant with internal rules and policies
+D.9. Personnel Development
+Diagnoses individual and group competence, identifying skill needs and skill gaps. Reviews training and development options and selects appropriate methodology taking into account the individual, project and business requirements. Coaches and/ or mentors individuals and teams to address learning needs.
+Proficiency Levels
+Proficiency Level 2 - Briefs/trains individuals and groups, holds courses of instruction.
+Proficiency Level 3 - Monitors and addressees the development needs of individuals and teams.
+Proficiency Level 4 - Takes proactive action and develops organisational processes to address the development needs of individuals, teams and the entire workforce.
+Knowledge Examples
+K1 competence development methods
+K2 competence and skill needs analysis methodologies
+K3 learning and development support methods (e.g. coaching, teaching)
+K4 technologies and processes
+K5 empowerment techniques
+Skills Examples
+S1 identify competence and skill gaps
+S2 identify and recommend work based development opportunities
+S3 incorporate within routine work processes, opportunities for skills development
+S4 coaching
+S5 address professional development needs of staff to meet organisational requirements
+D.10. Information and Knowledge Management
+Identifies and manages structured and unstructured information and considers information distribution policies. Creates information structure to enable exploitation and optimisation of information. Understands appropriate tools to be deployed to create, extract, maintain, renew and propagate business knowledge in order to capitalise from the information asset.
+Proficiency Levels
+Proficiency Level 3 - Analyses business processes and associated information requirements and provides the most appropriate information structure.
+Proficiency Level 4 - Integrates the appropriate information structure into the corporate environment.
+Proficiency Level 5 - Correlates information and knowledge to create value for the business. Applies innovative solutions based on information retrieved.
+Knowledge Examples
+K1 methods to analyse information and business processes
+K2 ICT devices and tools applicable for the storage and retrieval of data
+K3 challenges related to the size of data sets (e.g. big data)
+K4 challenges related to unstructured data (e.g. data analytics)
+Skills Examples
+S1 gather internal and external knowledge and information needs
+S2 formalise customer requirements
+S3 translate/ reflect business behaviour into structured information
+S4 make information available
+S5 ensure that IPR and privacy issues are respected
+S6 capture, storage, analyse, data sets, that are complex and large, not structured and in different formats
+S7 apply data mining methods
+D.11. Needs Identification
+Actively listens to internal/ external customers, articulates and clarifies their needs. Manages the relationship with all stakeholders to ensure that the solution is in line with business requirements. Proposes different solutions (e.g. make-or-buy), by performing contextual analysis in support of user centered system design. Advises the customer on appropriate solution choices. Acts as an advocate engaging in the implementation or configuration process of the chosen solution.
+Proficiency Levels
+Proficiency Level 3 - Establishes reliable relationships with customers and helps them clarify their needs.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge of the customers business to offer possible solutions to business needs. Provides expert guidance to the customer by proposing solutions and supplier.
+Proficiency Level 5 - Provides leadership in support of the customer's strategic decisions. Helps customer to envisage new ICT solutions, fosters partnerships and creates value propositions.
+Knowledge Examples
+K1 emerging technologies and the relevant market applications
+K2 business needs
+K3 organisation processes and structures
+K4 customer need analysis techniques
+K5 communication techniques
+K6 'Story telling' techniques'
+Skills Examples
+S1 analyse and formalise business processes
+S2 analyse customer requirements
+S3 present ICT solution cost/benefit
+D.12. Digital Marketing
+Understands the fundamental principles of digital marketing. Distinguishes between the traditional and digital approaches. Appreciates the range of channels available. Assesses the effectiveness of the various approaches and applies rigorous measurement techniques. Plans a coherent strategy using the most effective means available. Understands the data protection and privacy issues involved in the implementation of the marketing strategy.
+Proficiency Levels
+Proficiency Level 2 - Understands and applies digital marketing tactics to develop an integrated and effective digital marketing plan using different digital marketing areas such as search, display, e-mail, social media and mobile marketing.
+Proficiency Level 3 - Exploits specialist knowledge to utilise analytical tools and assess the effectiveness of websites in terms of technical performance and download speed. Evaluates the user engagement by the application of a wide range of analytical reports. Knows the legal implications of the approaches adopted.
+Proficiency Level 4 - Develops clear meaningful objectives for the Digital Marketing Plan. Selects appropriate tools and sets budget targets for the channels adopted. Monitors, analyses and enhances the digital marketing activities in an ongoing manner.
+Knowledge Examples
+K1 marketing strategy
+K2 web technologies
+K3 search engine marketing (PPC)
+K4 search engine optimisation
+K5 mobile marketing (e.g. Pay Per Click)
+K6 social media marketing
+K7 e-mail marketing
+K8 display marketing
+K9 legal issues/requirements
+Skills Examples
+S1 understand how web technology can be used for marketing purposes
+S2 understand user centric marketing
+S3 be able to use and interpret web analytics
+S4 understand the on-line environment
+E - Manage
+E.1. Forecast Development
+Interprets market needs and evaluates market acceptance of products or services. Assesses the organisation's potential to meet future production and quality requirements. Applies relevant metrics to enable accurate decision making in support of production, marketing, sales and distribution functions.
+Proficiency Levels
+Proficiency Level 3 - Exploits skills to provide short-term forecast using market inputs and assessing the organisation's production and selling capabilities.
+Proficiency Level 4 - Acts with wide ranging accountability for the production of a long-term forecast. Understands the global marketplace, identifying and evaluating relevant inputs from the broader business, political and social context.
+Knowledge Examples
+K1 market size and relevant fluctuations
+K2 accessibility of the market according to current conditions (e.g. government policies, emerging technologies, social and cultural trends, etc.)
+K3 the extended supply chain operation
+K4 large scale data analysis techniques (data mining)
+Skills Examples
+S1 apply what-if techniques to produce realistic outlooks
+S2 generate sales forecasts in relation to current market share
+S3 generate production forecasts taking into account manufacturing capacity
+S4 compare sales and production forecasts and analyse potential mismatches
+S5 interpret external research data and analyse information
+E.2. Project and Portfolio Management
+Implements plans for a programme of change. Plans and directs a single or portfolio of ICT projects to ensure co-ordination and management of interdependencies. Orchestrates projects to develop or implement new, internal or externally defined processes to meet identified business needs. Defines activities, responsibilities, critical milestones, resources, skills needs, interfaces and budget, optimises costs and time utilisation, minimises waste and strives for high quality. Develops contingency plans to address potential implementation issues. Delivers project on time, on budget and in accordance with original requirements. Creates and maintains documents to facilitate monitoring of project progress.
+Proficiency Levels
+Proficiency Level 2 - Understands and applies the principles of project management and applies methodologies, tools and processes to manage simple projects, optimises costs and minimises waste.
+Proficiency Level 3 - Accounts for own and others activities, working within the project boundary, making choices and giving instructions, optimising activities and resources. Manages and supervises relationships within the team; plans and establishes team objectives and outputs and documents results.
+Proficiency Level 4 - Manages complex projects or programmes, including interaction with others. Influences project strategy by proposing new or alternative solutions and balancing effectiveness and efficiency. Is empowered to revise rules and choose standards. Takes overall responsibility for project outcomes, including finance and resource management and works beyond project boundary.
+Proficiency Level 5 - Provides strategic leadership for extensive interrelated programmes of work to ensure that Information Technology is a change enabling agent and delivers benefit in line with overall business strategic aims. Applies extensive business and technological mastery to conceive and bring innovative ideas to fruition.
+Knowledge Examples
+K1 a project methodology, including approaches to define project steps and tools to set up action plans
+K2 technologies to be implemented within the project
+K3 company business strategy and business processes
+K4 development and compliance to financial plans and budgets
+K5 IPR principles and regulation
+K6 structured project management methodologies (e.g. agile techniques)
+Skills Examples
+S1 identify project risks and define action plans to mitigate
+S2 define a project plan by breaking it down into individual project tasks
+S3 communicate project progress to all relevant parties reporting on topics such as cost control, schedule achievements, quality control, risk avoidance and changes to project specifications
+S4 delegate tasks and manage team member contributions appropriately
+S5 manage external ,contracted resources to achieve project objectives
+S6 optimise project portfolio timelines and delivery objectives by achieving consensus on stakeholder priorities
+E.3. Risk Management
+Implements the management of risk across information systems through the application of the enterprise defined risk management policy and procedure. Assesses risk to the organisation's business, including web, cloud and mobile resources. Documents potential risk and containment plans.
+Proficiency Levels
+Proficiency Level 2 - Understands and applies the principles of risk management and investigates ICT solutions to mitigate identified risks.
+Proficiency Level 3 - Decides on appropriate actions required to adapt security and address risk exposure. Evaluates, manages and ensures validation of exceptions; audits ICT processes and environment.
+Proficiency Level 4 - Provides leadership to define and make applicable a policy for risk management by considering all the possible constraints, including technical, economic and political issues. Delegates assignments.
+Knowledge Examples
+K1 apply risk analysis taking into account corporate values and interests
+K2 the return on investment compared to risk avoidance
+K3 good practices (methodologies) and standards in risk analysis
+Skills Examples
+S1 develop risk management plan to identify required preventative actions
+S2 communicate and promote the organisation's risk analysis outcomes and risk management processes
+S3 design and document the processes for risk analysis and management
+S4 apply mitigation and contingency actions
+E.4. Relationship Management
+Establishes and maintains positive business relationships between stakeholders (internal or external) deploying and complying with organisational processes. Maintains regular communication with customer/ partner/ supplier, and addresses needs through empathy with their environment and managing supply chain communications. Ensures that stakeholder needs, concerns or complaints are understood and addressed in accordance with organisational policy.
+Proficiency Levels
+Proficiency Level 3 - Accounts for own and others actions in managing a limited number of stakeholders
+Proficiency Level 4 - Provides leadership for large or many stakeholder relationships. Authorises investment in new and existing relationships. Leads the design of a workable procedure for maintaining positive business relationships.
+Knowledge Examples
+K1 organisation processes including, decision making, budgets and management structure
+K2 business objectives, own and of other stakeholders
+K3 how to measure and apply resources to meet stakeholder requirements
+K4 business challenges and risks
+Skills Examples
+S1 deploy empathy to customer needs
+S2 identify potential win win opportunities for client and own organisation
+S3 establish realistic expectations to support development of mutual trust
+S4 monitor ongoing commitments to ensure fulfilment
+S5 communicate good and bad news to avoid surprises
+E.5. Process Improvement
+Measures effectiveness of existing ICT processes. Researches and benchmarks ICT process design from a variety of sources. Follows a systematic methodology to evaluate, design and implement process or technology changes for measurable business benefit. Assesses potential adverse consequences of process change.
+Proficiency Levels
+Proficiency Level 3 - Exploits specialist knowledge to research existing ICT processes and solutions in order to define possible innovations. Makes recommendations based on reasoned arguments.
+Proficiency Level 4 - Provides leadership and authorises implementation of innovations and improvements that will enhance competitiveness or efficiency. Demonstrates to senior management the business advantage of potential changes.
+Knowledge Examples
+K1 research methods, benchmarks and measurements methods
+K2 evaluation, design and implementation methodologies
+K3 existing internal processes
+K4 relevant developments in ICT (e.g. virtualisation, open data, etc.), and the potential impact on processes
+K5 web, cloud and mobile technologies
+K6 resource optimisation and waste reduction
+Skills Examples
+S1 compose, document and catalogue essential processes and procedures
+S2 propose process changes to facilitate and rationalise improvements
+S3 implement process changes
+E.6. ICT Quality Management
+Implements ICT quality policy to maintain and enhance service and product provision. Plans and defines indicators to manage quality with respect to ICT strategy. Reviews quality measures and recommends enhancements to influence continuous quality improvement.
+Proficiency Levels
+Proficiency Level 2 - Communicates and monitors application of the organisation's quality policy.
+Proficiency Level 3 - Evaluates quality management indicators and processes based on ICT quality policy and proposes remedial action.
+Proficiency Level 4 - Assesses and estimates the degree to which quality requirements have been met and provides leadership for quality policy implementation. Provides cross functional leadership for setting and exceeding quality standards.
+Knowledge Examples
+K1 which methods, tools and procedure are applied within the organisation and where they should be applied
+K2 the IS internal quality audit approach
+K3 regulations and standards in energy efficiency and e-waste
+Skills Examples
+S1 illustrate how methods, tools and procedures can be applied to implement the organisation's quality policy
+S2 evaluate and analyse process steps to identify strengths and weaknesses
+S3 assist process owners in the choice and use of measures to evaluate effectiveness and efficiency of the overall process
+S4 monitor, understand and act upon quality indicators
+S5 perform quality audits
+E.7. Business Change Management
+Assesses the implications of new digital solutions. Defines the requirements and quantifies the business benefits. Manages the deployment of change taking into account structural and cultural issues. Maintains business and process continuity throughout change, monitoring the impact, taking any required remedial action and refining approach.
+Proficiency Levels
+Proficiency Level 3 - Evaluates change requirements and exploits specialist skills to identify possible methods and standards that can be deployed
+Proficiency Level 4 - Provides leadership to plan, manage and implement significant ICT led business change.
+Proficiency Level 5 - Applies pervasive influence to embed organisational change.
+Knowledge Examples
+K1 digital strategies
+K2 the impact of business changes on the organisation and human resources
+K3 the impact of business changes on legal issues
+Skills Examples
+S1 analyse costs and benefits of business changes
+S2 select appropriate ICT solutions based upon benefit, risks and overall impact
+S3 construct and document a plan for implementation of process enhancements
+S4 apply project management standards and tools
+E.8. Information Security Management
+Implements information security policy. Monitors and takes action against intrusion, fraud and security breaches or leaks. Ensures that security risks are analysed and managed with respect to enterprise data and information. Reviews security incidents, makes recommendations for security policy and strategy to ensure continuous improvement of security provision.
+Proficiency Levels
+Proficiency Level 2 - Systematically scans the environment to identify and define vulnerabilities and threats. Records and escalates non-compliance
+Proficiency Level 3 - Evaluates security management measures and indicators and decides if compliant to information security policy. Investigates and instigates remedial measures to address any security breaches.
+Proficiency Level 4 - Provides leadership for the integrity, confidentiality and availability of data stored on information systems and complies with all legal requirements.
+Knowledge Examples
+K1 the organisation's security management policy and its implications for engagement with customers, suppliers and subcontractors
+K2 the best practices and standards in information security management
+K3 the critical risks for information security management
+K4 the ICT internal audit approach
+K5 security detection techniques, including mobile and digital
+K6 cyber attack techniques and counter measures for avoidance
+K7 computer forensics
+Skills Examples
+S1 document the information security management policy, linking it to business strategy
+S2 analyse the company critical assets and identify weaknesses and vulnerability to intrusion or attack
+S3 establish a risk management plan to feed and produce preventative action plans
+S4 perform security audits
+S5 apply monitoring and testing techniques
+S6 establish the recovery plan
+S7 implement the recovery plan in case of crisis
+E.9. IS Governance
+Defines, deploys and controls the management of information systems in line with business imperatives. Takes into account all internal and external parameters such as legislation and industry standard compliance to influence risk management and resource deployment to achieve balanced business benefit.
+Proficiency Levels
+Proficiency Level 4 - Provides leadership for IS governance strategy by communicating, propagating and controlling relevant processes across the entire ICT infrastructure.
+Proficiency Level 5 - Defines and aligns the IS governance strategy incorporating it into the organisation's corporate governance strategy. Adapts the IS governance strategy to take into account new significant events arising from legal, economic, political, business, technological or environmental issues.
+Knowledge Examples
+K1 the ICT infrastructure and the business organisation
+K2 the business strategy of the company
+K3 the business values
+K4 the legal requirements
+Skills Examples
+S1 manage applicable governance models
+S2 analyse the business context of the company and its evolution
+S3 define and implement appropriate KPIs
+S4 communicate the value, risks and opportunities derived from the IS strategy

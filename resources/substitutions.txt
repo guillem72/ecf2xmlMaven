@@ -1,0 +1,14 @@
+original --> acronims
+IS --> Information Services (IS)
+ICT --> Information and Communications Technologies (ICT)
+SLA --> service level agreements (SLA)
+SWOT --> Strengths, Weaknesses, Opportunities and Threats (SWOT)
+KPI --> key performance indicators (KPI)
+IPR --> Intellectual Property Rights (IPR)
+DBMS --> Database Management System (DBMS)
+SaaS --> Software as a Service SaaS
+PaaS --> Platform-as-a-Service PaaS
+IaaS --> Infrastructure as a Service IaaS
+VAR --> value-added resellers (VAR)
+VARs --> value-added resellers (VARs)
+

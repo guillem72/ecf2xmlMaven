@@ -1,0 +1,14 @@
+<add><doc>
+<field name="id">D.12.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">privacy</field>
+<field name="term"  boost="2.0">ports</field>
+
+<field name="term"  boost="1.0">computers and information processing</field>
+<field name="term"  boost="1.0">technology social factors</field>
+<field name="term"  boost="1.0">social implications of technology</field>
+<field name="term"  boost="1.0">computer interfaces</field>
+<field name="term"  boost="1.0">social factors</field>
+<field name="term"  boost="1.0">technology</field>
+
+</doc></add>

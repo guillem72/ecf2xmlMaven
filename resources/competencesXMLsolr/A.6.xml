@@ -1,0 +1,42 @@
+<add><doc>
+<field name="id">A.6.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">security</field>
+<field name="term"  boost="2.0">modeling</field>
+<field name="term"  boost="2.0">data structures</field>
+<field name="term"  boost="2.0">information services</field>
+
+<field name="term"  boost="1.0">invasive software</field>
+<field name="term"  boost="1.0">cutoff frequency</field>
+<field name="term"  boost="1.0">public key</field>
+<field name="term"  boost="1.0">firewalls</field>
+<field name="term"  boost="1.0">industry applications</field>
+<field name="term"  boost="1.0">intrusion detection</field>
+<field name="term"  boost="1.0">digital simulation</field>
+<field name="term"  boost="1.0">ask ieee</field>
+<field name="term"  boost="1.0">random number generation</field>
+<field name="term"  boost="1.0">software libraries</field>
+<field name="term"  boost="1.0">authorization</field>
+<field name="term"  boost="1.0">computers and information processing</field>
+<field name="term"  boost="1.0">encryption</field>
+<field name="term"  boost="1.0">computer architecture</field>
+<field name="term"  boost="1.0">computer crime</field>
+<field name="term"  boost="1.0">ciphers</field>
+<field name="term"  boost="1.0">computer simulation</field>
+<field name="term"  boost="1.0">computational cultural modeling</field>
+<field name="term"  boost="1.0">load modeling</field>
+<field name="term"  boost="1.0">authentication</field>
+<field name="term"  boost="1.0">identity management systems</field>
+<field name="term"  boost="1.0">information security</field>
+<field name="term"  boost="1.0">cryptography</field>
+<field name="term"  boost="1.0">permission</field>
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="1.0">deconvolution</field>
+<field name="term"  boost="1.0">systems engineering and theory</field>
+<field name="term"  boost="1.0">message authentication</field>
+<field name="term"  boost="1.0">computer hacking</field>
+<field name="term"  boost="1.0">medical simulation</field>
+<field name="term"  boost="1.0">integrated circuit modeling</field>
+<field name="term"  boost="1.0">dictionaries</field>
+
+</doc></add>

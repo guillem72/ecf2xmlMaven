@@ -1,0 +1,53 @@
+<add><doc>
+<field name="id">B.2.</field>
+<field name="type">competence</field>
+<field name="term"  boost="4.0">software</field>
+<field name="term"  boost="2.0">management</field>
+<field name="term"  boost="2.0">reliability</field>
+<field name="term"  boost="2.0">documentation</field>
+<field name="term"  boost="2.0">information security</field>
+<field name="term"  boost="2.0">maintenance</field>
+<field name="term"  boost="2.0">modules</field>
+<field name="term"  boost="4.0">hardware</field>
+
+<field name="term"  boost="2.0">pscad</field>
+<field name="term"  boost="2.0">web services</field>
+<field name="term"  boost="2.0">public domain software</field>
+<field name="term"  boost="2.0">software design</field>
+<field name="term"  boost="1.0">mathematics</field>
+<field name="term"  boost="1.0">stability analysis</field>
+<field name="term"  boost="2.0">spice</field>
+<field name="term"  boost="1.0">reliability</field>
+<field name="term"  boost="2.0">utility programs</field>
+<field name="term"  boost="2.0">emtdc</field>
+<field name="term"  boost="1.0">industry applications</field>
+<field name="term"  boost="1.0">algebra</field>
+<field name="term"  boost="1.0">engineering management</field>
+<field name="term"  boost="2.0">authoring systems</field>
+<field name="term"  boost="1.0">robust stability</field>
+<field name="term"  boost="2.0">intelligent agents</field>
+<field name="term"  boost="2.0">computers and information processing</field>
+<field name="term"  boost="1.0">security</field>
+<field name="term"  boost="1.0">abstract algebra</field>
+<field name="term"  boost="2.0">message-oriented middleware</field>
+<field name="term"  boost="1.0">writing</field>
+<field name="term"  boost="2.0">mediation</field>
+<field name="term"  boost="1.0">redundancy</field>
+<field name="term"  boost="1.0">information systems</field>
+<field name="term"  boost="2.0">middleware</field>
+<field name="term"  boost="2.0">matlab</field>
+<field name="term"  boost="1.0">business</field>
+<field name="term"  boost="1.0">information management</field>
+<field name="term"  boost="1.0">fault location</field>
+<field name="term"  boost="2.0">file systems</field>
+<field name="term"  boost="2.0">operating systems</field>
+<field name="term"  boost="1.0">stability criteria</field>
+<field name="term"  boost="1.0">thermal stability</field>
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="2.0">program processors</field>
+<field name="term"  boost="1.0">management</field>
+<field name="term"  boost="1.0">circuit stability</field>
+<field name="term"  boost="2.0">autonomous agents</field>
+<field name="term"  boost="1.0">dissolved gas analysis</field>
+
+</doc></add>

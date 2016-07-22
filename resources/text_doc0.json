@@ -1,0 +1,23 @@
+{
+    "hardware": {
+        "573": 581,
+        "1227": 1235
+    },
+    "software": {
+        "53": 61,
+        "560": 568,
+        "1248": 1256
+    },
+    "management": {
+        "195": 205
+    },
+    "information security": {
+        "352": 372
+    },
+    "documentation": {
+        "429": 442
+    },
+    "system performance": {
+        "1613": 1631
+    }
+}

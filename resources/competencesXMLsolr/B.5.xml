@@ -1,0 +1,30 @@
+<add><doc>
+<field name="id">B.5.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">production</field>
+<field name="term"  boost="2.0">management</field>
+<field name="term"  boost="8.0">documentation</field>
+
+<field name="term"  boost="1.0">single machine scheduling</field>
+<field name="term"  boost="1.0">business</field>
+<field name="term"  boost="1.0">cause effect analysis</field>
+<field name="term"  boost="1.0">adaptive scheduling</field>
+<field name="term"  boost="1.0">process planning</field>
+<field name="term"  boost="1.0">logistics</field>
+<field name="term"  boost="1.0">lead time reduction</field>
+<field name="term"  boost="1.0">industry applications</field>
+<field name="term"  boost="1.0">engineering management</field>
+<field name="term"  boost="1.0">dynamic scheduling</field>
+<field name="term"  boost="1.0">optimized production technology</field>
+<field name="term"  boost="1.0">control charts</field>
+<field name="term"  boost="1.0">production management</field>
+<field name="term"  boost="4.0">professional communication</field>
+<field name="term"  boost="4.0">writing</field>
+<field name="term"  boost="1.0">lot sizing</field>
+<field name="term"  boost="1.0">scheduling</field>
+<field name="term"  boost="1.0">production planning</field>
+<field name="term"  boost="1.0">continuous production</field>
+<field name="term"  boost="1.0">inventory management</field>
+<field name="term"  boost="1.0">job shop scheduling</field>
+
+</doc></add>

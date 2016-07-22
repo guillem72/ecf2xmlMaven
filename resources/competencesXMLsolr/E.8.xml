@@ -1,0 +1,90 @@
+<add><doc>
+<field name="id">E.8.</field>
+<field name="type">competence</field>
+<field name="term"  boost="14.0">security</field>
+<field name="term"  boost="2.0">reviews</field>
+<field name="term"  boost="4.0">management</field>
+<field name="term"  boost="6.0">information security</field>
+<field name="term"  boost="2.0">information systems</field>
+<field name="term"  boost="2.0">availability</field>
+
+<field name="term"  boost="7.0">invasive software</field>
+<field name="term"  boost="1.0">data conversion</field>
+<field name="term"  boost="1.0">information sharing</field>
+<field name="term"  boost="1.0">electronic medical records</field>
+<field name="term"  boost="3.0">industry applications</field>
+<field name="term"  boost="3.0">engineering management</field>
+<field name="term"  boost="7.0">random number generation</field>
+<field name="term"  boost="1.0">competitive intelligence</field>
+<field name="term"  boost="1.0">digital-analog conversion</field>
+<field name="term"  boost="1.0">audio compression</field>
+<field name="term"  boost="7.0">authorization</field>
+<field name="term"  boost="1.0">publish-subscribe</field>
+<field name="term"  boost="1.0">adaptive coding</field>
+<field name="term"  boost="1.0">document handling</field>
+<field name="term"  boost="1.0">data preprocessing</field>
+<field name="term"  boost="1.0">data compression</field>
+<field name="term"  boost="1.0">merging</field>
+<field name="term"  boost="1.0">multimedia databases</field>
+<field name="term"  boost="1.0">portals</field>
+<field name="term"  boost="7.0">cryptography</field>
+<field name="term"  boost="1.0">data engineering</field>
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="1.0">biomedical informatics</field>
+<field name="term"  boost="1.0">associative processing</field>
+<field name="term"  boost="1.0">sonification</field>
+<field name="term"  boost="1.0">image retrieval</field>
+<field name="term"  boost="1.0">virtual enterprises</field>
+<field name="term"  boost="1.0">data handling</field>
+<field name="term"  boost="1.0">data integration</field>
+<field name="term"  boost="1.0">data warehouses</field>
+<field name="term"  boost="1.0">data encapsulation</field>
+<field name="term"  boost="1.0">cognitive informatics</field>
+<field name="term"  boost="1.0">image databases</field>
+<field name="term"  boost="7.0">public key</field>
+<field name="term"  boost="1.0">analog-digital conversion</field>
+<field name="term"  boost="1.0">reliability</field>
+<field name="term"  boost="1.0">data storage systems</field>
+<field name="term"  boost="7.0">firewalls</field>
+<field name="term"  boost="1.0">spreadsheet programs</field>
+<field name="term"  boost="1.0">intrusion detection</field>
+<field name="term"  boost="1.0">query processing</field>
+<field name="term"  boost="1.0">deductive databases</field>
+<field name="term"  boost="3.0">security</field>
+<field name="term"  boost="1.0">audio databases</field>
+<field name="term"  boost="7.0">encryption</field>
+<field name="term"  boost="1.0">indexes</field>
+<field name="term"  boost="7.0">computer crime</field>
+<field name="term"  boost="1.0">writing</field>
+<field name="term"  boost="1.0">sorting</field>
+<field name="term"  boost="7.0">ciphers</field>
+<field name="term"  boost="1.0">transform coding</field>
+<field name="term"  boost="1.0">data acquisition</field>
+<field name="term"  boost="3.0">information systems</field>
+<field name="term"  boost="1.0">data assimilation</field>
+<field name="term"  boost="1.0">user-generated content</field>
+<field name="term"  boost="7.0">authentication</field>
+<field name="term"  boost="1.0">identity management systems</field>
+<field name="term"  boost="1.0">source coding</field>
+<field name="term"  boost="1.0">data analysis</field>
+<field name="term"  boost="3.0">business</field>
+<field name="term"  boost="1.0">information management</field>
+<field name="term"  boost="1.0">huffman coding</field>
+<field name="term"  boost="1.0">test data compression</field>
+<field name="term"  boost="1.0">data processing</field>
+<field name="term"  boost="1.0">information security</field>
+<field name="term"  boost="1.0">fastbus</field>
+<field name="term"  boost="7.0">permission</field>
+<field name="term"  boost="1.0">informatics</field>
+<field name="term"  boost="1.0">data collection</field>
+<field name="term"  boost="1.0">text processing</field>
+<field name="term"  boost="1.0">knowledge transfer</field>
+<field name="term"  boost="1.0">information exchange</field>
+<field name="term"  boost="3.0">management</field>
+<field name="term"  boost="1.0">object oriented databases</field>
+<field name="term"  boost="7.0">message authentication</field>
+<field name="term"  boost="7.0">computer hacking</field>
+<field name="term"  boost="1.0">data transfer</field>
+<field name="term"  boost="1.0">business data processing</field>
+
+</doc></add>

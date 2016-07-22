@@ -1,0 +1,18 @@
+<add><doc>
+<field name="id">B.1.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">codes</field>
+<field name="term"  boost="2.0">product development</field>
+<field name="term"  boost="2.0">maintenance</field>
+
+<field name="term"  boost="1.0">iterative decoding</field>
+<field name="term"  boost="1.0">bar codes</field>
+<field name="term"  boost="1.0">reflective binary codes</field>
+<field name="term"  boost="1.0">prognostics and health management</field>
+<field name="term"  boost="1.0">reliability</field>
+<field name="term"  boost="1.0">information theory</field>
+<field name="term"  boost="1.0">engineering management</field>
+<field name="term"  boost="1.0">reed-solomon codes</field>
+<field name="term"  boost="1.0">avatars</field>
+
+</doc></add>

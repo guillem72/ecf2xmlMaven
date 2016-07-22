@@ -1,0 +1,108 @@
+<add><doc>
+<field name="id">A.5.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">security</field>
+<field name="term"  boost="6.0">business</field>
+<field name="term"  boost="2.0">software</field>
+<field name="term"  boost="2.0">technological innovation</field>
+<field name="term"  boost="10.0">technology</field>
+<field name="term"  boost="2.0">information services</field>
+<field name="term"  boost="2.0">scalability</field>
+<field name="term"  boost="2.0">hardware</field>
+
+<field name="term"  boost="3.0">resource management</field>
+<field name="term"  boost="1.0">invasive software</field>
+<field name="term"  boost="3.0">information sharing</field>
+<field name="term"  boost="1.0">pscad</field>
+<field name="term"  boost="1.0">web services</field>
+<field name="term"  boost="3.0">asset management</field>
+<field name="term"  boost="1.0">spice</field>
+<field name="term"  boost="1.0">emtdc</field>
+<field name="term"  boost="1.0">industry applications</field>
+<field name="term"  boost="3.0">engineering management</field>
+<field name="term"  boost="3.0">human resource management</field>
+<field name="term"  boost="1.0">random number generation</field>
+<field name="term"  boost="3.0">marketing management</field>
+<field name="term"  boost="3.0">competitive intelligence</field>
+<field name="term"  boost="3.0">content management</field>
+<field name="term"  boost="3.0">customer relationship management</field>
+<field name="term"  boost="1.0">authoring systems</field>
+<field name="term"  boost="1.0">software libraries</field>
+<field name="term"  boost="1.0">authorization</field>
+<field name="term"  boost="3.0">business process re-engineering</field>
+<field name="term"  boost="1.0">intelligent agents</field>
+<field name="term"  boost="3.0">storage management</field>
+<field name="term"  boost="3.0">companies</field>
+<field name="term"  boost="1.0">computers and information processing</field>
+<field name="term"  boost="1.0">message-oriented middleware</field>
+<field name="term"  boost="3.0">governmental factors</field>
+<field name="term"  boost="3.0">document handling</field>
+<field name="term"  boost="1.0">matlab</field>
+<field name="term"  boost="3.0">project management</field>
+<field name="term"  boost="1.0">file systems</field>
+<field name="term"  boost="1.0">operating systems</field>
+<field name="term"  boost="1.0">cryptography</field>
+<field name="term"  boost="3.0">lead time reduction</field>
+<field name="term"  boost="3.0">contingency management</field>
+<field name="term"  boost="3.0">risk analysis</field>
+<field name="term"  boost="3.0">production management</field>
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="3.0">bnsc</field>
+<field name="term"  boost="1.0">systems engineering and theory</field>
+<field name="term"  boost="3.0">research and development management</field>
+<field name="term"  boost="3.0">outsourcing</field>
+<field name="term"  boost="3.0">supply chain management</field>
+<field name="term"  boost="3.0">decision making</field>
+<field name="term"  boost="3.0">virtual enterprises</field>
+<field name="term"  boost="3.0">inventory management</field>
+<field name="term"  boost="1.0">dictionaries</field>
+<field name="term"  boost="3.0">inventory control</field>
+<field name="term"  boost="1.0">public key</field>
+<field name="term"  boost="1.0">public domain software</field>
+<field name="term"  boost="1.0">system analysis and design</field>
+<field name="term"  boost="3.0">cause effect analysis</field>
+<field name="term"  boost="1.0">software design</field>
+<field name="term"  boost="3.0">process planning</field>
+<field name="term"  boost="1.0">utility programs</field>
+<field name="term"  boost="1.0">firewalls</field>
+<field name="term"  boost="3.0">logistics</field>
+<field name="term"  boost="5.0">privacy</field>
+<field name="term"  boost="3.0">intrusion detection</field>
+<field name="term"  boost="3.0">enterprise resource planning</field>
+<field name="term"  boost="1.0">ask ieee</field>
+<field name="term"  boost="3.0">contracts</field>
+<field name="term"  boost="3.0">knowledge management</field>
+<field name="term"  boost="3.0">public relations</field>
+<field name="term"  boost="5.0">small business technology transfer</field>
+<field name="term"  boost="3.0">government</field>
+<field name="term"  boost="1.0">encryption</field>
+<field name="term"  boost="1.0">computer crime</field>
+<field name="term"  boost="1.0">ciphers</field>
+<field name="term"  boost="1.0">mediation</field>
+<field name="term"  boost="1.0">authentication</field>
+<field name="term"  boost="1.0">middleware</field>
+<field name="term"  boost="1.0">identity management systems</field>
+<field name="term"  boost="5.0">social implications of technology</field>
+<field name="term"  boost="3.0">information management</field>
+<field name="term"  boost="3.0">organizational aspects</field>
+<field name="term"  boost="3.0">information security</field>
+<field name="term"  boost="3.0">facilities management</field>
+<field name="term"  boost="3.0">sociotechnical systems</field>
+<field name="term"  boost="1.0">permission</field>
+<field name="term"  boost="3.0">communication system operations and management</field>
+<field name="term"  boost="1.0">technology</field>
+<field name="term"  boost="3.0">international collaboration</field>
+<field name="term"  boost="3.0">control charts</field>
+<field name="term"  boost="1.0">program processors</field>
+<field name="term"  boost="3.0">knowledge transfer</field>
+<field name="term"  boost="3.0">quality management</field>
+<field name="term"  boost="1.0">message authentication</field>
+<field name="term"  boost="3.0">financial management</field>
+<field name="term"  boost="1.0">computer hacking</field>
+<field name="term"  boost="3.0">best practices</field>
+<field name="term"  boost="3.0">business continuity</field>
+<field name="term"  boost="3.0">production planning</field>
+<field name="term"  boost="3.0">business data processing</field>
+<field name="term"  boost="1.0">autonomous agents</field>
+
+</doc></add>

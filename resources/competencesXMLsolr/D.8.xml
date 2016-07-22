@@ -1,0 +1,35 @@
+<add><doc>
+<field name="id">D.8.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">security</field>
+<field name="term"  boost="2.0">prom</field>
+<field name="term"  boost="2.0">drives</field>
+<field name="term"  boost="2.0">management</field>
+<field name="term"  boost="2.0">contracts</field>
+
+<field name="term"  boost="1.0">identity management systems</field>
+<field name="term"  boost="1.0">invasive software</field>
+<field name="term"  boost="1.0">memory</field>
+<field name="term"  boost="1.0">public key</field>
+<field name="term"  boost="1.0">business</field>
+<field name="term"  boost="1.0">information security</field>
+<field name="term"  boost="1.0">cryptography</field>
+<field name="term"  boost="1.0">firewalls</field>
+<field name="term"  boost="1.0">industry applications</field>
+<field name="term"  boost="1.0">intrusion detection</field>
+<field name="term"  boost="1.0">permission</field>
+<field name="term"  boost="1.0">read only memory</field>
+<field name="term"  boost="1.0">engineering management</field>
+<field name="term"  boost="1.0">random number generation</field>
+<field name="term"  boost="1.0">authorization</field>
+<field name="term"  boost="1.0">computers and information processing</field>
+<field name="term"  boost="1.0">encryption</field>
+<field name="term"  boost="1.0">management</field>
+<field name="term"  boost="1.0">message authentication</field>
+<field name="term"  boost="1.0">computer crime</field>
+<field name="term"  boost="1.0">computer hacking</field>
+<field name="term"  boost="1.0">ciphers</field>
+<field name="term"  boost="1.0">authentication</field>
+<field name="term"  boost="1.0">machinery</field>
+
+</doc></add>

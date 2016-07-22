@@ -1,0 +1,34 @@
+<add><doc>
+<field name="id">D.3.</field>
+<field name="type">competence</field>
+<field name="term"  boost="4.0">feedback</field>
+<field name="term"  boost="2.0">education</field>
+<field name="term"  boost="20.0">training</field>
+
+<field name="term"  boost="10.0">education</field>
+<field name="term"  boost="2.0">circuits and systems</field>
+<field name="term"  boost="2.0">output feedback</field>
+<field name="term"  boost="2.0">negative feedback</field>
+<field name="term"  boost="1.0">electronics engineering education</field>
+<field name="term"  boost="1.0">engineering students</field>
+<field name="term"  boost="1.0">on the job training</field>
+<field name="term"  boost="2.0">control systems</field>
+<field name="term"  boost="1.0">biomedical engineering education</field>
+<field name="term"  boost="2.0">circuits</field>
+<field name="term"  boost="1.0">courseware</field>
+<field name="term"  boost="1.0">electronic learning</field>
+<field name="term"  boost="1.0">power engineering education</field>
+<field name="term"  boost="1.0">communication engineering education</field>
+<field name="term"  boost="1.0">control engineering education</field>
+<field name="term"  boost="2.0">feedback circuits</field>
+<field name="term"  boost="1.0">vocational training</field>
+<field name="term"  boost="1.0">management training</field>
+<field name="term"  boost="1.0">student experiments</field>
+<field name="term"  boost="1.0">electrical engineering education</field>
+<field name="term"  boost="1.0">computer aided instruction</field>
+<field name="term"  boost="1.0">education courses</field>
+<field name="term"  boost="1.0">industrial training</field>
+<field name="term"  boost="2.0">neurofeedback</field>
+<field name="term"  boost="1.0">systems engineering education</field>
+
+</doc></add>

@@ -1,0 +1,73 @@
+<add><doc>
+<field name="id">A.8.</field>
+<field name="type">competence</field>
+<field name="term"  boost="4.0">sustainable development</field>
+<field name="term"  boost="4.0">business</field>
+<field name="term"  boost="2.0">prom</field>
+<field name="term"  boost="2.0">training</field>
+<field name="term"  boost="2.0">information services</field>
+
+<field name="term"  boost="2.0">resource management</field>
+<field name="term"  boost="2.0">information sharing</field>
+<field name="term"  boost="1.0">education</field>
+<field name="term"  boost="2.0">asset management</field>
+<field name="term"  boost="2.0">industry applications</field>
+<field name="term"  boost="2.0">engineering management</field>
+<field name="term"  boost="2.0">human resource management</field>
+<field name="term"  boost="2.0">marketing management</field>
+<field name="term"  boost="2.0">competitive intelligence</field>
+<field name="term"  boost="2.0">content management</field>
+<field name="term"  boost="2.0">customer relationship management</field>
+<field name="term"  boost="1.0">software libraries</field>
+<field name="term"  boost="2.0">business process re-engineering</field>
+<field name="term"  boost="2.0">storage management</field>
+<field name="term"  boost="2.0">companies</field>
+<field name="term"  boost="1.0">computers and information processing</field>
+<field name="term"  boost="2.0">governmental factors</field>
+<field name="term"  boost="2.0">document handling</field>
+<field name="term"  boost="2.0">project management</field>
+<field name="term"  boost="2.0">lead time reduction</field>
+<field name="term"  boost="2.0">contingency management</field>
+<field name="term"  boost="2.0">risk analysis</field>
+<field name="term"  boost="2.0">production management</field>
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="2.0">bnsc</field>
+<field name="term"  boost="2.0">research and development management</field>
+<field name="term"  boost="2.0">outsourcing</field>
+<field name="term"  boost="2.0">supply chain management</field>
+<field name="term"  boost="2.0">decision making</field>
+<field name="term"  boost="2.0">virtual enterprises</field>
+<field name="term"  boost="2.0">inventory management</field>
+<field name="term"  boost="1.0">dictionaries</field>
+<field name="term"  boost="2.0">inventory control</field>
+<field name="term"  boost="1.0">memory</field>
+<field name="term"  boost="2.0">cause effect analysis</field>
+<field name="term"  boost="2.0">process planning</field>
+<field name="term"  boost="2.0">logistics</field>
+<field name="term"  boost="2.0">enterprise resource planning</field>
+<field name="term"  boost="2.0">intrusion detection</field>
+<field name="term"  boost="1.0">ask ieee</field>
+<field name="term"  boost="2.0">contracts</field>
+<field name="term"  boost="2.0">knowledge management</field>
+<field name="term"  boost="2.0">public relations</field>
+<field name="term"  boost="2.0">government</field>
+<field name="term"  boost="2.0">environmental management</field>
+<field name="term"  boost="2.0">social implications of technology</field>
+<field name="term"  boost="2.0">information management</field>
+<field name="term"  boost="2.0">organizational aspects</field>
+<field name="term"  boost="2.0">facilities management</field>
+<field name="term"  boost="2.0">sociotechnical systems</field>
+<field name="term"  boost="2.0">information security</field>
+<field name="term"  boost="2.0">communication system operations and management</field>
+<field name="term"  boost="1.0">read only memory</field>
+<field name="term"  boost="2.0">international collaboration</field>
+<field name="term"  boost="2.0">control charts</field>
+<field name="term"  boost="2.0">knowledge transfer</field>
+<field name="term"  boost="2.0">quality management</field>
+<field name="term"  boost="2.0">financial management</field>
+<field name="term"  boost="2.0">best practices</field>
+<field name="term"  boost="2.0">business continuity</field>
+<field name="term"  boost="2.0">production planning</field>
+<field name="term"  boost="2.0">business data processing</field>
+
+</doc></add>

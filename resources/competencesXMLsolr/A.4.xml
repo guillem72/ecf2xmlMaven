@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">A.4.</field>
+<field name="type">competence</field>
+<field name="term"  boost="2.0">documentation</field>
+
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="1.0">writing</field>
+
+</doc></add>

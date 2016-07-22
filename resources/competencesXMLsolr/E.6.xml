@@ -1,0 +1,13 @@
+<add><doc>
+<field name="id">E.6.</field>
+<field name="type">competence</field>
+<field name="term"  boost="4.0">quality management</field>
+<field name="term"  boost="2.0">reviews</field>
+
+<field name="term"  boost="1.0">professional communication</field>
+<field name="term"  boost="2.0">business</field>
+<field name="term"  boost="2.0">management</field>
+<field name="term"  boost="1.0">writing</field>
+<field name="term"  boost="2.0">engineering management</field>
+
+</doc></add>
