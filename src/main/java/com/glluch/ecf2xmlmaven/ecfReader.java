@@ -31,6 +31,7 @@ import org.w3c.dom.Document;
 
 /**
  * Created by Guillem LLuch Moll on 28/02/16.
+ * A class for parse the e-cf competences and instanciate it.
  */
 public class ecfReader {
 //stat = start | group | title | desc | transition | level | know | skill
@@ -54,7 +55,7 @@ public class ecfReader {
     }
 
     /*
-    The original document seams to produce some error
+    The original document seams to produce some error, so this function doesn't work properly.
      */
     public Document parseXMLDocument() throws SAXException, ParserConfigurationException, IOException {
 
@@ -68,11 +69,16 @@ public class ecfReader {
         //System.out.println(document);
     }
 
+    /**
+    * Given a txt file containing the text of the competences (from e-cf), produces
+    * an instance of each compentence.
+    * @return A HashMap competence title -&gt; the instance of the competence.
+    **/
     public HashMap<String, Competence> parseTxtDocument() throws IOException {
         HashMap<String, Competence> ecfs = new HashMap<>();
         final String ecfFile = FileUtils.readFileToString(new File("resources/profilesAcronims.txt"), "utf8");
 
-        Status status = new Status();
+        Status status = new Status();//indicate in with part of the text we are.
         String[] lines = ecfFile.split("\n");
         String group = null;
         String stat;
@@ -182,7 +188,7 @@ public class ecfReader {
          * @param line The text to be analized to set a new status
          * @return the status read from config/status.properties in the form
          * status=regex. If any regex matches, return desc, for description.
-         */
+         **/
         public String move(String line) {
             Set keys = map.keySet();
             this.now = DESC;

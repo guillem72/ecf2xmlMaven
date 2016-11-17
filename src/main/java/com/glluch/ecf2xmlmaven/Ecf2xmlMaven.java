@@ -14,16 +14,23 @@ import org.apache.solr.client.solrj.SolrServerException;
 public class Ecf2xmlMaven {
 
     public static void main(String[] args)  throws IOException, SolrServerException{
-       competences();       
-      }
-    public static void competences() throws IOException{
-        
-        ecfReader ecfR = new ecfReader();
+          ecfReader ecfR = new ecfReader();
         HashMap<String, Competence> competences=ecfR.parseTxtDocument();
-        //System.out.println(competences);
-        //String target="resources/competences/";
         //String targetIEEE="resources/competences2IEEE/";
-        
+        toSolr(competences);    }   
+   
+    public static void toJson (HashMap<String, Competence> competences) throws IOException{
+     Set keys=competences.keySet();
+     String target="resources/competences/";
+        for (Object key: keys){
+            Competence c=competences.get((String)key);
+            c.jsonWriter(target);
+        }
+    }
+    
+    
+    public static void toSolr(HashMap<String, Competence> competences) throws IOException{
+    
         String targetXS="resources/competencesXMLsolr/";
         //String targetAcro="resources/acro";
         HashMap <String,ArrayList<String>> related;
