@@ -19,6 +19,8 @@ package com.glluch.ecf2xmlmaven;
 
 import com.glluch.findterms.Surrogate;
 import com.glluch.findterms.Vocabulary;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -45,10 +47,10 @@ public class Competence {
     private HashMap<String, String> knowledges;
     private HashMap<String, String> skills;
     private HashMap <String,Integer> terms;
-    private String serverUrl="http://localhost:8888/solr/ecf";
+    private transient String serverUrl="http://localhost:8888/solr/ecf";
     private HashMap <String, Integer>related=new HashMap <>() ; //terms and theirs syncets
-    public double term_boost=2.0;
-    public double related_boost=1.0;
+    public transient double term_boost=2.0;
+    public transient double related_boost=1.0;
    
     public HashMap <String, Integer> buildRelated() {
         if(!related.isEmpty()) return related;
@@ -191,11 +193,11 @@ public class Competence {
         info += "\n\nTitle: " + title;
         info += "\nDescription: " + description;
         //info+="\nlevels:\n"+levels.toString();
-        info+="\nlevels:\n"+stringifyLevels();
+        info+="\nlevels:\n"+levels2String();
         return info;
     }
 
-    protected String stringifyLevels(){
+    protected String levels2String(){
         String text="";
        Set nivells=levels.keySet();
        for (Object nivell: nivells){
@@ -210,26 +212,43 @@ public class Competence {
         m=m.replace("\n", " ");
         return m;
     }
-    public void jsonWriter(String path) throws IOException{
+    
+    //Gson gson = new Gson();
+    //String json = gson.toJson(obj);  
+    
+     public void jsonWriter(String path) throws IOException{
         String m=this.code;
-        m+=" "+this.toString();
-        m=m.replace("\n", " ");
-        JSONObject obj = new JSONObject();
-        obj.put("code", this.code);
-        obj.put("txt", m);
+        Gson gson =  new GsonBuilder().setPrettyPrinting().create();
+        String jsonCompetence = gson.toJson(this);
+        //Utils.echo(jsonCompetence);
         String fileTitle=this.code+".json";
-        FileUtils.writeStringToFile(new File(path+fileTitle), obj.toJSONString(), "utf8");
+        FileUtils.writeStringToFile(new File(path+fileTitle), jsonCompetence, "utf8");
 
 	
     }
     
+    public void jsonWriterRaw(String path) throws IOException{
+        String m=this.code;
+        m+=" "+this.toString();
+        m=m.replace("\n", " ");
+        JSONObject jsonCompetence = new JSONObject();
+        jsonCompetence.put("code", this.code);
+        jsonCompetence.put("txt", m);
+        String fileTitle=this.code+".json";
+        FileUtils.writeStringToFile(new File(path+fileTitle), jsonCompetence.toJSONString(), "utf8");
+
+	
+    }
+    
+    
+    
     public void jsonIEEEWriter(String path) throws IOException{
         String m=this.terms.toString();
-        JSONObject obj = new JSONObject();
-        obj.put("code", this.code);
-        obj.put("txt", m);
+        JSONObject jsonCompetence = new JSONObject();
+        jsonCompetence.put("code", this.code);
+        jsonCompetence.put("txt", m);
         String fileTitle=this.code+"json";
-        FileUtils.writeStringToFile(new File(path+fileTitle), obj.toJSONString(), "utf8");
+        FileUtils.writeStringToFile(new File(path+fileTitle), jsonCompetence.toJSONString(), "utf8");
     }
     
     //it produces error
