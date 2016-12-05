@@ -1,0 +1,5 @@
+Defines, validates and makes applicable service level agreements (SLAs) and underpinning contracts for services offered. Negotiates service performance levels taking into account the needs and capacity of stakeholders and business.
+Ensures the content of the service level agreements (SLA).
+Negotiates revision of service level agreements (SLAs), in accordance with the overall objectives. Ensures the achievement of planned results.
+service level agreements (SLA) documentation.how to compare and interpret management data.the elements forming the metrics of service level agreements.how service delivery infrastructures work.impact of service level non-compliance on business performance.Information and Communications Technologies (ICT) security standards.Information and Communications Technologies (ICT) quality standards.
+negotiate realistic service level targets.use relevant quality management techniques.anticipate and mitigate against potential service disruptions.analyse service provision records.evaluate service provision against service level agreements (SLA).

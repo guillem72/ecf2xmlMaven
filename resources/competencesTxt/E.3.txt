@@ -1,0 +1,6 @@
+Implements the management of risk across information systems through the application of the enterprise defined risk management policy and procedure. Assesses risk to the organisation's business, including web, cloud and mobile resources. Documents potential risk and containment plans.
+Understands and applies the principles of risk management and investigates Information and Communications Technologies (ICT) solutions to mitigate identified risks.
+Decides on appropriate actions required to adapt security and address risk exposure. Evaluates, manages and ensures validation of exceptions; audits Information and Communications Technologies (ICT) processes and environment.
+Provides leadership to define and make applicable a policy for risk management by considering all the possible constraints, including technical, economic and political issues. Delegates assignments.
+apply risk analysis taking into account corporate values and interests.the return on investment compared to risk avoidance.good practices (methodologies) and standards in risk analysis.
+design and document the processes for risk analysis and management.apply mitigation and contingency actions.develop risk management plan to identify required preventative actions.communicate and promote the organisation's risk analysis outcomes and risk management processes.

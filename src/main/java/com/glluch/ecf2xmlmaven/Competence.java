@@ -213,15 +213,65 @@ public class Competence {
         return m;
     }
     
-    //Gson gson = new Gson();
+    public void textWriter(String path) throws IOException{
+        String fileTitle=this.code+"txt";
+        String textCompetence="";
+        textCompetence+=this.description+"\n";
+        textCompetence+=this.levels2text();
+         textCompetence+=this.know2text()+"\n";
+          textCompetence+=this.skills2text()+"\n";
+        
+        FileUtils.writeStringToFile(new File(path+fileTitle), textCompetence, "utf8");
+    }
+
+    protected String levels2text(){
+        String res="";
+        Set index=this.levels.keySet();
+        for (Object i0:index){
+            int i=(int) i0;
+            res+=this.levels.get(i)+"\n";
+        }
+        return res;
+        }
+    
+       protected String know2text(){
+        String res="";
+        Set index=this.knowledges.keySet();
+        for (Object i0:index){
+            String i=(String) i0;
+            res+=this.knowledges.get(i)+".";
+        }
+        return res;
+        }
+    
+      protected String skills2text(){
+        String res="";
+        Set index=this.skills.keySet();
+        for (Object i0:index){
+            String i=(String) i0;
+            res+=this.skills.get(i)+".";
+        }
+        return res;
+        }
+      
+      
+    
+
+//Gson gson = new Gson();
     //String json = gson.toJson(obj);  
     
-     public void jsonWriter(String path) throws IOException{
-        String m=this.code;
-        Gson gson =  new GsonBuilder().setPrettyPrinting().create();
+    
+    
+     public void jsonWriter(String path, boolean pretty) throws IOException{
+        
+        Gson gson;
+        if (pretty){
+        gson =  new GsonBuilder().setPrettyPrinting().create();}
+        else
+        {gson = new Gson(); }
         String jsonCompetence = gson.toJson(this);
         //Utils.echo(jsonCompetence);
-        String fileTitle=this.code+".json";
+        String fileTitle=this.code+"json";
         FileUtils.writeStringToFile(new File(path+fileTitle), jsonCompetence, "utf8");
 
 	

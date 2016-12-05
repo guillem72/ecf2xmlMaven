@@ -2,8 +2,11 @@ package com.glluch.ecf2xmlmaven;
 
 import com.glluch.findterms.Surrogate;
 import com.glluch.findterms.Vocabulary;
+import com.glluch.utils.Out;
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Set;
 import org.apache.solr.client.solrj.SolrServerException;
@@ -14,17 +17,44 @@ import org.apache.solr.client.solrj.SolrServerException;
 public class Ecf2xmlMaven {
 
     public static void main(String[] args)  throws IOException, SolrServerException{
-          ecfReader ecfR = new ecfReader();
-        HashMap<String, Competence> competences=ecfR.parseTxtDocument();
+          
+         //System.out.println(new File(".").getAbsoluteFile());
+        ecfReader ecfR = new ecfReader();
+         
+          File origin=new File("resources/profilesAcronims.txt");
+        HashMap<String, Competence> competences=ecfR.parseTxtDocument(origin);
         //String targetIEEE="resources/competences2IEEE/";
-        toSolr(competences);    }   
+        //toJson(competences);
+        //toText(competences);
+        //parts2Solr(competences);
+        Out.p(competences.values().size()+" competences");
+        Writer.competencesParts2Solr(competences.values(),"resources/partsXmlSolr/");
+    }   
    
+    
+    protected static void parts2Solr(HashMap<String, Competence> competences) throws IOException{
+    String path="resources/partsXmlSolr/";
+        Collection<Competence> values = competences.values();
+        Object[] toArray = values.toArray();
+        Competence comp=(Competence) toArray[0]; 
+        Writer.competenceParts2Solr(comp, path);
+    }
+    
+      public static void toText (HashMap<String, Competence> competences) throws IOException{
+     Set keys=competences.keySet();
+     String target="resources/competencesTxt/";
+        for (Object key: keys){
+            Competence c=competences.get((String)key);
+            c.textWriter(target);
+        }
+    }
+    
     public static void toJson (HashMap<String, Competence> competences) throws IOException{
      Set keys=competences.keySet();
      String target="resources/competences/";
         for (Object key: keys){
             Competence c=competences.get((String)key);
-            c.jsonWriter(target);
+            c.jsonWriter(target, false);
         }
     }
     

@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.7.S4</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">project management</field>
+
+<field name="comment">Competence: Business Change Management, Group: E - Manage, Code: E.7.</field>
+</doc></add>

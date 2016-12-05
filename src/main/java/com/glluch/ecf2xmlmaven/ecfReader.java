@@ -43,6 +43,8 @@ public class ecfReader {
     private final String KNOW;
     private final String SKILL;
     private final String GROUP;
+    
+    
 
     public ecfReader() {
         TITLE = "title";
@@ -74,9 +76,9 @@ public class ecfReader {
     * an instance of each compentence.
     * @return A HashMap competence title -&gt; the instance of the competence.
     **/
-    public HashMap<String, Competence> parseTxtDocument() throws IOException {
+    public HashMap<String, Competence> parseTxtDocument(File origin) throws IOException {
         HashMap<String, Competence> ecfs = new HashMap<>();
-        final String ecfFile = FileUtils.readFileToString(new File("resources/profilesAcronims.txt"), "utf8");
+        final String ecfFile = FileUtils.readFileToString(origin, "utf8");
 
         Status status = new Status();//indicate in with part of the text we are.
         String[] lines = ecfFile.split("\n");

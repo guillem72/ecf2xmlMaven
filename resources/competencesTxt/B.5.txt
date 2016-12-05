@@ -1,0 +1,6 @@
+Produces documents describing products, services, components or applications to establish compliance with relevant documentation requirements. Selects appropriate style and media for presentation materials. Creates templates for document-management systems. Ensures that functions and features are documented in an appropriate way. Ensures that existing documents are valid and up to date.
+Uses and applies standards to define document structure.
+Determines documentation requirements taking into account the purpose and environment to which it applies.
+Adapts the level of detail according to the objective of the documentation and the targeted population.
+tools for production, editing and distribution of professional documents.tools for multimedia presentation creation.different technical documents required for designing, developing and deploying products, applications and services.version control of documentation production.
+organise and control content management workflow.keep publications aligned to the solution during the entire lifecycle.observe and deploy effective use of corporate standards for publications.prepare templates for shared publications.
