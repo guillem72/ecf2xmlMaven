@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.2.K2</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Service Level Management, Group: A - Plan, Code: A.2.</field>
+</doc></add>

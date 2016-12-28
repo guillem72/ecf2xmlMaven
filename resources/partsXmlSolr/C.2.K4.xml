@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">C.2.K4</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Change Support, Group: C - Run, Code: C.2.</field>
+</doc></add>

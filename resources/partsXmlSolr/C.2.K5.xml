@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">C.2.K5</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">management</field>
+<field name="ieee_term"  boost="1">best practices</field>
+<field name="ieee_term"  boost="1">information security</field>
+
+<field name="comment">Competence: Change Support, Group: C - Run, Code: C.2.</field>
+</doc></add>

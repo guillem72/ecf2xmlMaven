@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">E.4.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">art</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Relationship Management, Group: E - Manage, Code: E.4.</field>
+</doc></add>

@@ -1,0 +1,10 @@
+<add><doc>
+<field name="id">A.6.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">security</field>
+<field name="ieee_term"  boost="1">modeling</field>
+<field name="ieee_term"  boost="1">data structures</field>
+<field name="ieee_term"  boost="1">information services</field>
+
+<field name="comment">Competence: Application Design, Group: A - Plan, Code: A.6.</field>
+</doc></add>

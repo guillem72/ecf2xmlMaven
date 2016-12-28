@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">A.7.S3</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">merging</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Technology Trend Monitoring, Group: A - Plan, Code: A.7.</field>
+</doc></add>

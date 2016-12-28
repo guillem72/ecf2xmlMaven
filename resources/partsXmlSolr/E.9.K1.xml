@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.9.K1</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Information Services (IS) Governance, Group: E - Manage, Code: E.9.</field>
+</doc></add>

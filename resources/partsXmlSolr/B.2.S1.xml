@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">B.2.S1</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">system performance</field>
+
+<field name="comment">Competence: Component Integration, Group: B - Build, Code: B.2.</field>
+</doc></add>

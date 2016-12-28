@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.6.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">reviews</field>
+
+<field name="comment">Competence: Information and Communications Technologies (ICT) Quality Management, Group: E - Manage, Code: E.6.</field>
+</doc></add>

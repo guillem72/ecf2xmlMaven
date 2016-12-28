@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.6.S3</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">contacts</field>
+
+<field name="comment">Competence: Channel Management, Group: D - Enable, Code: D.6.</field>
+</doc></add>

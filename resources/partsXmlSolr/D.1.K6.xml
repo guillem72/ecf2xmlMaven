@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.1.K6</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">software as a service</field>
+
+<field name="comment">Competence: Information Security Strategy Development, Group: D - Enable, Code: D.1.</field>
+</doc></add>

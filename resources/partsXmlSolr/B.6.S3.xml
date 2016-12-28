@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">B.6.S3</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">software</field>
+<field name="ieee_term"  boost="1">hardware</field>
+
+<field name="comment">Competence: Systems Engineering, Group: B - Build, Code: B.6.</field>
+</doc></add>

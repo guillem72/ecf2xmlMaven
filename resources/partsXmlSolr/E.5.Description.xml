@@ -1,0 +1,10 @@
+<add><doc>
+<field name="id">E.5.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">process design</field>
+<field name="ieee_term"  boost="1">technology</field>
+<field name="ieee_term"  boost="1">sequences</field>
+
+<field name="comment">Competence: Process Improvement, Group: E - Manage, Code: E.5.</field>
+</doc></add>

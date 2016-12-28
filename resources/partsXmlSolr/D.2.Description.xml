@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">D.2.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="2">quality management</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Information and Communications Technologies (ICT) Quality Strategy Development, Group: D - Enable, Code: D.2.</field>
+</doc></add>

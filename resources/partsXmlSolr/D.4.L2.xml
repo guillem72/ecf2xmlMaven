@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">D.4.L2</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">correlation</field>
+<field name="ieee_term"  boost="1">contracts</field>
+
+<field name="comment">Competence: Purchasing, Group: D - Enable, Code: D.4.</field>
+</doc></add>

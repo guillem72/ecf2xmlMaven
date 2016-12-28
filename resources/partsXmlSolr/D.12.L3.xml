@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.12.L3</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">ports</field>
+
+<field name="comment">Competence: Digital Marketing, Group: D - Enable, Code: D.12.</field>
+</doc></add>

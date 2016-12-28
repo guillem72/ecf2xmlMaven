@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">C.4.S3</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Problem Management, Group: C - Run, Code: C.4.</field>
+</doc></add>

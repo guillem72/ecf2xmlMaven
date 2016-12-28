@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.1.S5</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Information Services (IS) and Business Strategy Alignment, Group: A - Plan, Code: A.1.</field>
+</doc></add>

@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.8.L2</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">prom</field>
+
+<field name="comment">Competence: Contract Management, Group: D - Enable, Code: D.8.</field>
+</doc></add>

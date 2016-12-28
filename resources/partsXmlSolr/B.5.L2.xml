@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">B.5.L2</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">documentation</field>
+
+<field name="comment">Competence: Documentation Production, Group: B - Build, Code: B.5.</field>
+</doc></add>

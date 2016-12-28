@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">B.1.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">codes</field>
+<field name="ieee_term"  boost="1">product development</field>
+
+<field name="comment">Competence: Application Development, Group: B - Build, Code: B.1.</field>
+</doc></add>

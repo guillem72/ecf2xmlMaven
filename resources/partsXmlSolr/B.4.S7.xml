@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">B.4.S7</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">art</field>
+<field name="ieee_term"  boost="1">software</field>
+
+<field name="comment">Competence: Solution Deployment, Group: B - Build, Code: B.4.</field>
+</doc></add>

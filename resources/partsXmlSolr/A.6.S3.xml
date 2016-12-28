@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">A.6.S3</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">estimation</field>
+<field name="ieee_term"  boost="1">costs</field>
+<field name="ieee_term"  boost="1">software</field>
+
+<field name="comment">Competence: Application Design, Group: A - Plan, Code: A.6.</field>
+</doc></add>

@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">E.3.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="2">management</field>
+<field name="ieee_term"  boost="1">information systems</field>
+
+<field name="comment">Competence: Risk Management, Group: E - Manage, Code: E.3.</field>
+</doc></add>

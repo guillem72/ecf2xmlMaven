@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.7.S1</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">prom</field>
+
+<field name="comment">Competence: Technology Trend Monitoring, Group: A - Plan, Code: A.7.</field>
+</doc></add>

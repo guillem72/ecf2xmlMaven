@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.11.L5</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">art</field>
+
+<field name="comment">Competence: Needs Identification, Group: D - Enable, Code: D.11.</field>
+</doc></add>

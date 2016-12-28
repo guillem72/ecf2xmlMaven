@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">D.7.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">drives</field>
+<field name="ieee_term"  boost="1">forecasting</field>
+
+<field name="comment">Competence: Sales Management, Group: D - Enable, Code: D.7.</field>
+</doc></add>

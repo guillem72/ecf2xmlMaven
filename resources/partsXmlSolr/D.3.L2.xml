@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.3.L2</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="2">training</field>
+
+<field name="comment">Competence: Education and Training Provision, Group: D - Enable, Code: D.3.</field>
+</doc></add>

@@ -1,0 +1,10 @@
+<add><doc>
+<field name="id">D.9.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">reviews</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">learning</field>
+<field name="ieee_term"  boost="1">training</field>
+
+<field name="comment">Competence: Personnel Development, Group: D - Enable, Code: D.9.</field>
+</doc></add>

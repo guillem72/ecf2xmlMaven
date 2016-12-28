@@ -1,0 +1,13 @@
+<add><doc>
+<field name="id">A.5.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">security</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">software</field>
+<field name="ieee_term"  boost="2">technology</field>
+<field name="ieee_term"  boost="1">information services</field>
+<field name="ieee_term"  boost="1">scalability</field>
+<field name="ieee_term"  boost="1">hardware</field>
+
+<field name="comment">Competence: Architecture Design, Group: A - Plan, Code: A.5.</field>
+</doc></add>

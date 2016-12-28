@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.8.K2</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Contract Management, Group: D - Enable, Code: D.8.</field>
+</doc></add>

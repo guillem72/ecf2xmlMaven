@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.11.K2</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Needs Identification, Group: D - Enable, Code: D.11.</field>
+</doc></add>

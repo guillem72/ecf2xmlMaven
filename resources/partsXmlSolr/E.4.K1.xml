@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">E.4.K1</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">management</field>
+<field name="ieee_term"  boost="1">decision making</field>
+
+<field name="comment">Competence: Relationship Management, Group: E - Manage, Code: E.4.</field>
+</doc></add>

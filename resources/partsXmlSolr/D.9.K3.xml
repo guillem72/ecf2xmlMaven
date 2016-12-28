@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.9.K3</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">learning</field>
+
+<field name="comment">Competence: Personnel Development, Group: D - Enable, Code: D.9.</field>
+</doc></add>

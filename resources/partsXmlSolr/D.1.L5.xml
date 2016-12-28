@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.1.L5</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">information security</field>
+
+<field name="comment">Competence: Information Security Strategy Development, Group: D - Enable, Code: D.1.</field>
+</doc></add>

@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.5.K1</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">search methods</field>
+
+<field name="comment">Competence: Process Improvement, Group: E - Manage, Code: E.5.</field>
+</doc></add>

@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.4.K8</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">merging</field>
+
+<field name="comment">Competence: Product/ Service Planning, Group: A - Plan, Code: A.4.</field>
+</doc></add>

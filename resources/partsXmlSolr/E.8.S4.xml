@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.8.S4</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">security</field>
+
+<field name="comment">Competence: Information Security Management, Group: E - Manage, Code: E.8.</field>
+</doc></add>

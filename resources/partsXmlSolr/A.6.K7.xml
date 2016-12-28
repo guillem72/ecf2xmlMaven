@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.6.K7</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Application Design, Group: A - Plan, Code: A.6.</field>
+</doc></add>

@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">D.3.S5</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">education</field>
+<field name="ieee_term"  boost="1">training</field>
+
+<field name="comment">Competence: Education and Training Provision, Group: D - Enable, Code: D.3.</field>
+</doc></add>

@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.1.S4</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">production</field>
+
+<field name="comment">Competence: Forecast Development, Group: E - Manage, Code: E.1.</field>
+</doc></add>

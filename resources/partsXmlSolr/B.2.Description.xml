@@ -1,0 +1,13 @@
+<add><doc>
+<field name="id">B.2.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">software</field>
+<field name="ieee_term"  boost="1">management</field>
+<field name="ieee_term"  boost="1">documentation</field>
+<field name="ieee_term"  boost="1">information security</field>
+<field name="ieee_term"  boost="1">maintenance</field>
+<field name="ieee_term"  boost="1">modules</field>
+<field name="ieee_term"  boost="1">hardware</field>
+
+<field name="comment">Competence: Component Integration, Group: B - Build, Code: B.2.</field>
+</doc></add>

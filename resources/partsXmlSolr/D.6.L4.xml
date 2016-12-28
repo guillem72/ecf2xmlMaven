@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.6.L4</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Channel Management, Group: D - Enable, Code: D.6.</field>
+</doc></add>

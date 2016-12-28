@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.5.S1</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">documentation</field>
+
+<field name="comment">Competence: Sales Proposal Development, Group: D - Enable, Code: D.5.</field>
+</doc></add>

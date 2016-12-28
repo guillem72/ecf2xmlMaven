@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.2.K1</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">information technology</field>
+
+<field name="comment">Competence: Information and Communications Technologies (ICT) Quality Strategy Development, Group: D - Enable, Code: D.2.</field>
+</doc></add>

@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">E.5.L4</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Process Improvement, Group: E - Manage, Code: E.5.</field>
+</doc></add>

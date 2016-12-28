@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.6.S4</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">prototypes</field>
+
+<field name="comment">Competence: Application Design, Group: A - Plan, Code: A.6.</field>
+</doc></add>

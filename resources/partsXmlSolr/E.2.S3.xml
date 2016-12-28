@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.2.S3</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">art</field>
+
+<field name="comment">Competence: Project and Portfolio Management, Group: E - Manage, Code: E.2.</field>
+</doc></add>

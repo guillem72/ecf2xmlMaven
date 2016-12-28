@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">A.3.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="3">business</field>
+<field name="ieee_term"  boost="1">cost benefit analysis</field>
+<field name="ieee_term"  boost="1">technology</field>
+
+<field name="comment">Competence: Business Plan Development, Group: A - Plan, Code: A.3.</field>
+</doc></add>

@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">D.4.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">business</field>
+
+<field name="comment">Competence: Purchasing, Group: D - Enable, Code: D.4.</field>
+</doc></add>

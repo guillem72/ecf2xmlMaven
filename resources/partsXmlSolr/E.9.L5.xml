@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">E.9.L5</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">logic</field>
+<field name="ieee_term"  boost="2">information services</field>
+
+<field name="comment">Competence: Information Services (IS) Governance, Group: E - Manage, Code: E.9.</field>
+</doc></add>

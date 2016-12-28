@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.2.L4</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">resource management</field>
+
+<field name="comment">Competence: Project and Portfolio Management, Group: E - Manage, Code: E.2.</field>
+</doc></add>

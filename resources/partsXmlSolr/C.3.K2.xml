@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">C.3.K2</field>
+<field name="type">Knowlegde</field>
+<field name="ieee_term"  boost="1">best practices</field>
+
+<field name="comment">Competence: Service Delivery, Group: C - Run, Code: C.3.</field>
+</doc></add>

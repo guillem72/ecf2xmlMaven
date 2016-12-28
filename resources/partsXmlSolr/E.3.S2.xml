@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">E.3.S2</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">prom</field>
+<field name="ieee_term"  boost="1">management</field>
+<field name="ieee_term"  boost="1">risk analysis</field>
+
+<field name="comment">Competence: Risk Management, Group: E - Manage, Code: E.3.</field>
+</doc></add>

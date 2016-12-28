@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">E.6.L3</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">quality management</field>
+
+<field name="comment">Competence: Information and Communications Technologies (ICT) Quality Management, Group: E - Manage, Code: E.6.</field>
+</doc></add>

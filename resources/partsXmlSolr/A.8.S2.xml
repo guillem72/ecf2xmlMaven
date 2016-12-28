@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.8.S2</field>
+<field name="type">skill</field>
+<field name="ieee_term"  boost="1">sustainable development</field>
+
+<field name="comment">Competence: Sustainable Development, Group: A - Plan, Code: A.8.</field>
+</doc></add>

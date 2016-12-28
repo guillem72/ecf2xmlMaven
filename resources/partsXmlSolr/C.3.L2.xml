@@ -1,0 +1,8 @@
+<add><doc>
+<field name="id">C.3.L2</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">security</field>
+<field name="ieee_term"  boost="2">reliability</field>
+
+<field name="comment">Competence: Service Delivery, Group: C - Run, Code: C.3.</field>
+</doc></add>

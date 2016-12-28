@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">B.3.L2</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">ports</field>
+
+<field name="comment">Competence: Testing, Group: B - Build, Code: B.3.</field>
+</doc></add>

@@ -1,0 +1,9 @@
+<add><doc>
+<field name="id">E.2.Description</field>
+<field name="type">Description</field>
+<field name="ieee_term"  boost="1">costs</field>
+<field name="ieee_term"  boost="1">business</field>
+<field name="ieee_term"  boost="1">management</field>
+
+<field name="comment">Competence: Project and Portfolio Management, Group: E - Manage, Code: E.2.</field>
+</doc></add>

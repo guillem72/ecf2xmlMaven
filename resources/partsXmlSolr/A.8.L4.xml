@@ -1,0 +1,7 @@
+<add><doc>
+<field name="id">A.8.L4</field>
+<field name="type">level</field>
+<field name="ieee_term"  boost="1">information services</field>
+
+<field name="comment">Competence: Sustainable Development, Group: A - Plan, Code: A.8.</field>
+</doc></add>

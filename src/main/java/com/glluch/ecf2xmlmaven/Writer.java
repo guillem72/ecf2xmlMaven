@@ -52,18 +52,20 @@ public class Writer {
 
     public static transient boolean debug = true;
 
-    public static void competencesParts2Solr(Collection <Competence> 
-        competences,String path) throws IOException{
-        Iterator<Competence> ic = competences.iterator();
-        if (ic.hasNext()){
-        Competence c=ic.next();
-        show("Processing "+c.getTitle()+" "+c.getCode());
-            competenceParts2Solr(c,path);
+    public static void competencesParts2Solr(Collection<Competence> competences, String path)
+        throws IOException {
+        debug(competences.size() + " comptences");
+        Object[] ca = competences.toArray();
+        int i=0;
+        while (i<ca.length){
+            Competence c=(Competence) ca[i++];
+            show("Processing " + c.getTitle() + " " + c.getCode() + " " + i);
+            competenceParts2Solr(c, path);
         }
     
+
     }
-    
-    
+
     /**
      * Given a competence produces xml files ready to put in apache solr. TODO
      * specify the solr schema.xml
@@ -77,42 +79,41 @@ public class Writer {
         String title = comp.getTitle();
         String group = comp.getGroup();
         String code = comp.getCode();
-        String comment="Competence: " + title + ", Group: " + group + ", Code: " + code;
+        String comment = "Competence: " + title + ", Group: " + group + ", Code: " + code;
         //Description
         String description = comp.getDescription();
         writePart2Solr(path, description, "Description", code + "Description",
             comment);
-        
+
         //Knowledges
         HashMap<String, String> knowledges = comp.getKnowledges();
-        writeHM2solr(knowledges,path, "Knowlegde",code,
+        writeHM2solr(knowledges, path, "Knowlegde", code,
             comment);
-        
+
         //Levels
         HashMap<Integer, String> levels0 = comp.getLevels();
-        HashMap<String, String> levels=JMap.is2ss(levels0);
-        writeHM2solr(levels,path, "level",code+"L", comment);
-        
+        HashMap<String, String> levels = JMap.is2ss(levels0);
+        writeHM2solr(levels, path, "level", code + "L", comment);
+
         //Skills
         HashMap<String, String> skills = comp.getSkills();
-        writeHM2solr(skills,path,"skill",code,comment);
-        
+        writeHM2solr(skills, path, "skill", code, comment);
+
     }
 
-    protected static void writeHM2solr (HashMap<String, String> map, String path, 
-        String solrType, String code, String solrComment ){
-          map.forEach((String key, String value) -> {
-         
-              try {
-                  writePart2Solr(path, value, solrType, code+key, solrComment);
-              } catch (IOException ex) {
-                  Logger.getLogger(Writer.class.getName()).log(Level.SEVERE, null, ex);
-              }
-           
+    protected static void writeHM2solr(HashMap<String, String> map, String path,
+        String solrType, String code, String solrComment) {
+        map.forEach((String key, String value) -> {
+
+            try {
+                writePart2Solr(path, value, solrType, code + key, solrComment);
+            } catch (IOException ex) {
+                Logger.getLogger(Writer.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
         });//end forEach
     }
-    
-    
+
     protected static void writePart2Solr(String path, String txt,
         String solrType, String id, String solrComment) throws IOException {
 
@@ -133,7 +134,7 @@ public class Writer {
             xml += terms2xml("ieee_term", terms) + System.lineSeparator();
             //optional elements
             if (StringUtils.isNotEmpty(solrComment)) {
-                
+
                 xml += "<field name=\"comment\">" + solrComment;
                 xml += "</field>" + System.lineSeparator();
             }
